@@ -1,11 +1,6 @@
-name: Merge Playlists (Safe)
+name: Merge Playlists Safe
 
 on:
-  push:
-    paths:
-      - 'my_playlist'
-  schedule:
-    - cron: '*/2 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,59 +13,53 @@ jobs:
 
       - name: Download External Playlists
         run: |
+          set +e  # Ignore errors
           echo "⬇️ Downloading external playlists..."
-          urls=(
-            "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u"
-            "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u"
-            "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u"
-            "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u"
-            "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u"
-            "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
-          )
-          files=(
-            "external_jstar.m3u"
-            "external_fancode.m3u"
-            "external_willow.m3u"
-            "external_z5.m3u"
-            "external_sony.m3u"
-            "external_sonyliv.m3u"
-          )
-          i=0
-          for url in "${urls[@]}"; do
-            file=${files[$i]}
-            if ! curl -fsSL "$url" -o "$file"; then
-              echo "⚠️ Could not download $file, skipping..."
-            fi
+          urls="https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u \
+                https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u \
+                https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u \
+                https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u \
+                https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u \
+                https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"
+          i=1
+          for url in $urls; do
+            file="external_$i.m3u"
+            curl -fsSL "$url" -o "$file" || echo "⚠️ Failed $file"
             i=$((i+1))
           done
+          set -e  # Restore exit-on-error
 
       - name: Merge Playlists
         run: |
+          set +e
           echo "#EXTM3U" > merged_playlist.m3u
-          temp_file=$(mktemp)
-
-          # List playlists in order: your playlist first
-          playlists=(my_playlist external_jstar.m3u external_fancode.m3u external_willow.m3u external_z5.m3u external_sony.m3u external_sonyliv.m3u)
-
-          for p in "${playlists[@]}"; do
-            [ -f "$p" ] || continue
-            echo "# --- $p ---" >> merged_playlist.m3u
-            grep -v '^$' "$p" >> "$temp_file"
+          temp=$(mktemp)
+          
+          # Merge all playlists (your playlist first)
+          files="my_playlist external_1.m3u external_2.m3u external_3.m3u external_4.m3u external_5.m3u external_6.m3u"
+          for f in $files; do
+            [ -f "$f" ] || continue
+            echo "# --- $f ---" >> merged_playlist.m3u
+            grep -v '^$' "$f" >> "$temp" 2>/dev/null
           done
-
-          # Remove duplicates, preserve #EXTM3U header
-          grep -v '^#EXTM3U$' "$temp_file" | sort -u >> merged_playlist.m3u
-          rm "$temp_file"
+          
+          # Deduplicate
+          grep -v '^#EXTM3U$' "$temp" | sort -u >> merged_playlist.m3u
+          rm "$temp"
           echo "✅ Merge complete."
+          set -e
 
       - name: Commit Changes
         run: |
+          set +e
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged_playlist.m3u
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-merge playlists (deduplicated)"
+            git commit -m "Auto-merge playlists"
             git pull --rebase origin main || echo "⚠️ Pull failed"
             git push origin main || echo "⚠️ Push failed"
           else
             echo "ℹ️ No changes detected."
+          fi
+          set -e
