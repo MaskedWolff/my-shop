@@ -3,7 +3,7 @@ name: Ultimate Playlist Merge
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'  # Har 30 minutes, adjust as needed
+    - cron: '*/30 * * * *'  # Har 30 minutes
 
 jobs:
   merge:
@@ -53,7 +53,7 @@ jobs:
           rm "$temp"
           echo "✅ Merge complete."
 
-      # 5️⃣ Commit & push merged playlist (force if needed)
+      # 5️⃣ Commit & push merged playlist
       - name: Commit and Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -61,7 +61,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged_playlist.m3u
-          # Force commit even if no changes
           git commit -m "Auto-merge playlists" --allow-empty
-          git push origin HEAD:main
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
           echo "✅ Merged playlist pushed to repo."
