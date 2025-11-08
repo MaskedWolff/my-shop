@@ -1,4 +1,4 @@
-name: Ultimate Playlist Merge (POSIX-safe)
+name: Merge Playlists (Safe)
 
 on:
   push:
@@ -35,39 +35,42 @@ jobs:
             "external_sony.m3u"
             "external_sonyliv.m3u"
           )
-          for i in "${!urls[@]}"; do
-            echo "Downloading ${files[$i]} ..."
-            curl -fsSL "${urls[$i]}" -o "${files[$i]}" || echo "⚠️ Failed to download ${files[$i]}"
+          i=0
+          for url in "${urls[@]}"; do
+            file=${files[$i]}
+            if ! curl -fsSL "$url" -o "$file"; then
+              echo "⚠️ Could not download $file, skipping..."
+            fi
+            i=$((i+1))
           done
 
-      - name: Merge Playlists (Deduplicated)
+      - name: Merge Playlists
         run: |
           echo "#EXTM3U" > merged_playlist.m3u
-          tempfile=$(mktemp)
+          temp_file=$(mktemp)
 
-          # List all playlists (external + your playlist)
-          playlists=(external_jstar.m3u external_fancode.m3u external_willow.m3u external_z5.m3u external_sony.m3u external_sonyliv.m3u my_playlist)
+          # List playlists in order: your playlist first
+          playlists=(my_playlist external_jstar.m3u external_fancode.m3u external_willow.m3u external_z5.m3u external_sony.m3u external_sonyliv.m3u)
 
           for p in "${playlists[@]}"; do
             [ -f "$p" ] || continue
             echo "# --- $p ---" >> merged_playlist.m3u
-            # Filter out empty lines, append to tempfile
-            grep -v '^$' "$p" >> "$tempfile"
+            grep -v '^$' "$p" >> "$temp_file"
           done
 
-          # Deduplicate lines (preserve #EXTM3U and section headers)
-          grep -v '^#EXTM3U$' "$tempfile" | sort -u >> merged_playlist.m3u
-          rm "$tempfile"
+          # Remove duplicates, preserve #EXTM3U header
+          grep -v '^#EXTM3U$' "$temp_file" | sort -u >> merged_playlist.m3u
+          rm "$temp_file"
           echo "✅ Merge complete."
 
-      - name: Commit if Updated
+      - name: Commit Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged_playlist.m3u
           if ! git diff --cached --quiet; then
             git commit -m "Auto-merge playlists (deduplicated)"
-            git pull origin main --rebase || echo "⚠️ Pull failed"
+            git pull --rebase origin main || echo "⚠️ Pull failed"
             git push origin main || echo "⚠️ Push failed"
           else
             echo "ℹ️ No changes detected."
