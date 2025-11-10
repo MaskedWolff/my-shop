@@ -35,12 +35,14 @@ jobs:
               name=$(basename "$f" .m3u)
               echo "" >> merged_playlist.m3u
               echo "# --- $name Playlist ---" >> merged_playlist.m3u
-              # Filter lines: keep EXTINF and URLs only, remove extra text
-              grep -E '^(#EXTINF|http)' "$f" >> merged_playlist.m3u
+              # Filter lines safely: keep EXTINF and URLs only
+              grep -E '^(#EXTINF|http)' "$f" >> merged_playlist.m3u || true
             fi
           done
           # Remove duplicate URLs while keeping headers
-          awk '!seen[$0]++ || /^# ---/' merged_playlist.m3u > tmp && mv tmp merged_playlist.m3u
+          if [ -s merged_playlist.m3u ]; then
+            awk '!seen[$0]++ || /^# ---/' merged_playlist.m3u > tmp && mv tmp merged_playlist.m3u
+          fi
           echo "✅ Merge complete. Playlist ready for players."
 
       - name: Commit if Updated
@@ -54,7 +56,6 @@ jobs:
             git push origin main
           else
             echo "ℹ️ No changes detected in merged_playlist.m3u"
-          fi
 
       - name: Upload merged playlist artifact
         uses: actions/upload-artifact@v4
