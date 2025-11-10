@@ -20,7 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # prevent auto GitHub token issues
+          persist-credentials: false
 
       - name: Setup git credentials
         env:
@@ -47,16 +47,28 @@ jobs:
 
       - name: Merge all playlists (local + remote)
         run: |
+          set -e
           echo "#EXTM3U" > merged_playlist.m3u
 
           echo "Merging local playlists..."
-          find playlists -type f -name "*.m3u" -exec grep -hv "^#EXTM3U" {} \; > temp/all.txt || true
+          mkdir -p temp
+          if [ -d playlists ]; then
+            find playlists -type f -name "*.m3u" -exec grep -hv "^#EXTM3U" {} \; > temp/all.txt || true
+          else
+            echo "No local playlists found" > temp/all.txt
+          fi
 
           echo "Adding remote playlists..."
-          grep -hv "^#EXTM3U" temp/*.m3u >> temp/all.txt
+          for f in temp/*.m3u; do
+            if [ -f "$f" ]; then
+              grep -hv "^#EXTM3U" "$f" >> temp/all.txt || true
+            fi
+          done
 
           echo "Removing duplicates..."
-          sort -u temp/all.txt >> merged_playlist.m3u
+          if [ -s temp/all.txt ]; then
+            sort -u temp/all.txt >> merged_playlist.m3u
+          fi
 
           echo "✅ Merged playlist created: merged_playlist.m3u"
 
