@@ -1,1 +1,57 @@
 
+name: Merge All Playlists (Local + Remote)
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch remote playlists
+        run: |
+          echo "Fetching remote playlists..."
+          mkdir -p temp
+
+          curl -L "https://raw.githubusercontent.com/MaskedWolff/my-shop/refs/heads/main/my_playlist" -o temp/maskedwolff.m3u
+          curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o temp/jstar.m3u
+          curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o temp/fancode.m3u
+          curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o temp/z5.m3u
+          curl -L "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o temp/sony.m3u
+          curl -L "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o temp/sonyliv.m3u
+
+      - name: Merge all playlists (local + remote)
+        run: |
+          echo "#EXTM3U" > merged_playlist.m3u
+          echo "Merging local playlists..."
+          find playlists -type f -name "*.m3u" -exec grep -hv "^#EXTM3U" {} \; > temp/all.txt || true
+
+          echo "Adding remote playlists..."
+          grep -hv "^#EXTM3U" temp/*.m3u >> temp/all.txt
+
+          echo "Removing duplicates..."
+          sort -u temp/all.txt >> merged_playlist.m3u
+
+          echo "✅ Merged playlist created: merged_playlist.m3u"
+
+      - name: Commit and push merged playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add merged_playlist.m3u
+          if git diff --cached --quiet; then
+            echo "No new changes."
+          else
+            git commit -m "Auto-merge all playlists (local + remote)"
+            git push
+          fi
