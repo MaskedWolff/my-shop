@@ -1,94 +1,60 @@
-name: Merge All Playlists (Local + Remote)
+name: Ultimate Playlist Merge (Fast)
 
 on:
   push:
-    branches:
-      - main
-  pull_request:
-    types: [closed]
-    branches:
-      - main
-
-permissions:
-  contents: write  # allow git push
+    paths:
+      - 'my_playlist'
+  schedule:
+    - cron: '*/2 * * * *'   # ⏱ Runs every 2 minutes
+  workflow_dispatch:
 
 jobs:
   merge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
-      - name: Setup git credentials
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download External Playlists
+        run: |
+          set -e
+          echo "⬇️ Downloading external playlists..."
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "⚠️ JStar playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "⚠️ Fancode playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "⚠️ Willow playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "⚠️ Z5 playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "⚠️ Sony playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o external_sonyliv.m3u || echo "⚠️ Sonyliv playlist failed"
+
+      - name: Merge Playlists Safely
+        run: |
+          echo "#EXTM3U" > merged_playlist.m3u
+          echo "⬇️ Merging external playlists..."
+          for f in external_*.m3u; do
+            [ -f "$f" ] && grep -hv "^#EXTM3U" "$f" >> merged_playlist.m3u || true
+          done
+          echo "⬇️ Adding local playlist..."
+          grep -hv "^#EXTM3U" my_playlist >> merged_playlist.m3u || true
+          echo "🗂 Removing duplicate URLs..."
+          sort -u merged_playlist.m3u -o merged_playlist.m3u
+          echo "✅ Merge complete."
+
+      - name: Commit if Updated
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-
-      - name: Fetch remote playlists
-        run: |
-          echo "Fetching remote playlists..."
-          mkdir -p temp
-
-          # Your playlist
-          curl -L "https://raw.githubusercontent.com/MaskedWolff/my-shop/refs/heads/main/my_playlist" -o temp/maskedwolff.m3u
-
-          # Other remote playlists
-          curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o temp/jstar.m3u
-          curl -L "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o temp/fancode.m3u
-          curl -L "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o temp/z5.m3u
-          curl -L "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o temp/sony.m3u
-          curl -L "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o temp/sonyliv.m3u
-
-      - name: Merge all playlists (local + remote)
-        run: |
-          set -e
-          echo "#EXTM3U" > merged_playlist.m3u
-
-          echo "Merging local playlists..."
-          mkdir -p temp
-          if [ -d playlists ]; then
-            find playlists -type f -name "*.m3u" -exec grep -hv "^#EXTM3U" {} \; > temp/all.txt || true
+          git add merged_playlist.m3u
+          if ! git diff --cached --quiet; then
+            echo "📝 Changes detected. Committing updated playlist..."
+            git commit -m "Auto-merge my_playlist with remote playlists"
+            git pull origin main --rebase
+            git push origin main
           else
-            echo "No local playlists found" > temp/all.txt
+            echo "ℹ️ No changes detected in merged_playlist.m3u"
           fi
 
-          echo "Adding remote playlists..."
-          for f in temp/*.m3u; do
-            if [ -f "$f" ]; then
-              grep -hv "^#EXTM3U" "$f" >> temp/all.txt || true
-            fi
-          done
-
-          echo "Removing duplicates..."
-          if [ -s temp/all.txt ]; then
-            sort -u temp/all.txt >> merged_playlist.m3u
-          fi
-
-          echo "✅ Merged playlist created: merged_playlist.m3u"
-
-      - name: Commit and push merged playlist safely
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # Skip push for forked repos
-          if [ "${{ github.event.pull_request.head.repo.full_name }}" != "${{ github.repository }}" ]; then
-            echo "🛑 This is a forked PR — skipping push for safety."
-          else
-            git add merged_playlist.m3u
-            if git diff --cached --quiet; then
-              echo "No new changes."
-            else
-              git commit -m "Auto-merge all playlists (local + remote)"
-              git push
-            fi
-
-      - name: Upload merged playlist as artifact
+      - name: Upload merged playlist artifact
         uses: actions/upload-artifact@v4
         with:
           name: merged-playlist
