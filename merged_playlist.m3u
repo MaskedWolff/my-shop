@@ -1488,6 +1488,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1762812577~exp=1762898977~acl=/*~hmac=b9153d61f99f579f07b11c4e0dfe2f57e0646e4b020f2e15f444dbb3d371c81e&xxx=%7Ccookie=__hdnea__=st=1762812577~exp=1762898977~acl=/*~hmac=b9153d61f99f579f07b11c4e0dfe2f57e0646e4b020f2e15f444dbb3d371c81e
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg" group-title="Fancode-Cricket", Tasmania vs South Australia (Sheffield Shield, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/134024_english_hls_c2ef5f6f2f58027_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134023_5609_NSW_VCT_fc-Web.jpg" group-title="Fancode-Cricket", Victoria vs New South Wales (Sheffield Shield, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/134023_english_hls_999dad716723692_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
