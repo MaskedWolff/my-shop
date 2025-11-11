@@ -1669,7 +1669,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762901644~acl=/*~id=80031809905818346505608962715088~hmac=a7d7d83d99c8e00571b39be242f88501cfd7de8dc39c2cf1aebda140738a3bb9
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Granollers/Zeballos vs Bolelli/Vavassori - 11 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762903469~acl=/*~id=81168284810673966186689265739929~hmac=c31eb6d06c5bb5e0c3a77fa7a575c382f5188adaff730b63de1ad6226287fad6
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762904078~acl=/*~id=47805387805686350971038515665405~hmac=a95d83d31c28d6af2e116e2d99ce58c2a9fd4a4813b27802a9d005c9ea1daf43
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
