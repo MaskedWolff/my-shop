@@ -1675,7 +1675,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1762941230~acl=/*~id=61508538439577605016833982492405~hmac=f74c544b3a760329987977eb765ba5e94e1ad33baa5f4d1f04a74c3348ff10ff
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762769185302255_ATP_FINALS_Musetti-vs-De-Minaur_landscape_thumb.jpg" group-title="sonyliv-Tennis", Lorenzo Musetti vs Alex De Minaur - Group Stage - 12 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762943057~acl=/*~id=61645311512907464675425825045780~hmac=d79c52f51408589e780e2c90d4e6ff005c3c43bd940407fce1821f725c413fbd
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762944276~acl=/*~id=20122974908555837836821239830266~hmac=abb861d3a453fcb474b23d50b84e2e45099da4596904ce4fa3c3b677dd83e573
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
