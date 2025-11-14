@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763118474~exp=1763204874~acl=/*~hmac=38fa2b11cbaf834fb41fb278f6b522d072c7e26d4965ef7f5d184d0937e0c261&xxx=%7Ccookie=__hdnea__=st=1763118474~exp=1763204874~acl=/*~hmac=38fa2b11cbaf834fb41fb278f6b522d072c7e26d4965ef7f5d184d0937e0c261
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg" group-title="Fancode-Golf", Day 2 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)
+https://in-mc-fdlive.fancode.com/mumbai/137978_english_hls_c0f2f2c28e47805_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1669,9 +1671,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763184174~acl=/*~id=43425257774406247265046472900069~hmac=cc320845ca5f8ec5ab2d87c5fb8216447aae8daf86d6b354c22dae4351d0d5e9
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Salisbury/Skupski vs Harrison/King - Group Stage - 14 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763182347~acl=/*~id=67625729214418791105939931492467~hmac=a21fa4f563e2cb1da2e028ca7c02f63d38c68f93f63bf04392e6ef768fbbeb36
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763186001~acl=/*~id=54407249677171272239825385569066~hmac=eec32a68c9c9e4700934832e225fd48645397cac15a37747e7a83cdad1c3ce2f
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762354789267408_EQFs_MD9_Finland_vs_Malta_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Finland vs Malta - MD 9 - 14 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763182347~acl=/*~id=67625729214418791105939931492467~hmac=a21fa4f563e2cb1da2e028ca7c02f63d38c68f93f63bf04392e6ef768fbbeb36
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763186001~acl=/*~id=54407249677171272239825385569066~hmac=eec32a68c9c9e4700934832e225fd48645397cac15a37747e7a83cdad1c3ce2f
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
