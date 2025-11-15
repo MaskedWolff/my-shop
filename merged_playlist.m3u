@@ -1674,8 +1674,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763240233~acl=/*~id=61310566013710258317856591284028~hmac=c6fcadeadde179c74869405b5fef31aeb8939261036af1e865be5024fa04dc64
 # --- external_sonyliv ---
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011268/1763132195071370_ACC25_BAN_A_vs_HongKong_Live_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Hong Kong, China - 15 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763242078~acl=/*~id=19976513051778774321419057308429~hmac=a5c5d5829c3370ab6a62a6bf848c1bf3e59dd81d1de41b86829e2cabb4fff3b4
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
