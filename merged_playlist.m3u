@@ -1488,10 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763330886~exp=1763417286~acl=/*~hmac=1295cb1350bc26c4c3ffc974c74226b25901f96a93a2b86182679faeb54385c4&xxx=%7Ccookie=__hdnea__=st=1763330886~exp=1763417286~acl=/*~hmac=1295cb1350bc26c4c3ffc974c74226b25901f96a93a2b86182679faeb54385c4
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138152_CASACARDS_APP.png" group-title="Fancode-Football", Nigeria vs DR Congo (CAF World Cup Qualifiers)
-https://in-mc-fdlive.fancode.com/mumbai/138152_english_hls_9d1f489bc949759_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png" group-title="Fancode-Football", Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138063_english_hls_38f195a62968715_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
