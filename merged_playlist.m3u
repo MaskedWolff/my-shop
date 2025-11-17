@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763340363~exp=1763426763~acl=/*~hmac=5e9785e06e7767b38fa5d1999d3740173b497a039ca6e3f9548f97f8e3f85eb6&xxx=%7Ccookie=__hdnea__=st=1763340363~exp=1763426763~acl=/*~hmac=5e9785e06e7767b38fa5d1999d3740173b497a039ca6e3f9548f97f8e3f85eb6
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137948_5744_BKFC_EBFC_fc-web_1763103330908.jpg" group-title="Fancode-Football", Bam Khatoon FC vs East Bengal (AFC Women's Champions League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137948_english_hls_299161b97b12385_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
