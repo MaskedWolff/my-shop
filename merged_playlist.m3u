@@ -1669,7 +1669,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763443594~acl=/*~id=50274906332810073731729215241100~hmac=682788bf578a7de1e465f983e473a5607a6b77c8dd86157e8173ec590aa9fdf1
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011386/1763297649314524_UEFA_INT_Friendlies_Finland_vs_Andorra_16nov_landscape_thumb.jpg" group-title="sonyliv-Football", Finland vs Andorra - 17 Nov 2025 [ENG] - UEFA International Friendlies
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763444811~acl=/*~id=87895781560029975028434765075753~hmac=22a9435a72ed737e9b561e041d9dfa35b3dea8b5564e3cebb2084deeedecd8ae
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763446026~acl=/*~id=45670428843919614982417310185230~hmac=af8e07bbe28364b3a6ef08918a7ed8b75e8d145d138b1553ae29b65bdba547da
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
