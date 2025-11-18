@@ -1488,7 +1488,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763426647~exp=1763513047~acl=/*~hmac=c720525c99632448898a7eea66181ac7dc9ef49630ae7cb5d4cd90857445684d&xxx=%7Ccookie=__hdnea__=st=1763426647~exp=1763513047~acl=/*~hmac=c720525c99632448898a7eea66181ac7dc9ef49630ae7cb5d4cd90857445684d
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg" group-title="Fancode-Cricket", Indonesia vs Bahrain (Bahrain tour of Indonesia, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Tour-to-Indonesia_2025_Old_match-card.jpg" group-title="Fancode-Cricket", Bahrain vs Indonesia (Bahrain tour of Indonesia, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138008_english_hls_7b5e27ba2380418_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
