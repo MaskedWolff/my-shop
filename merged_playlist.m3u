@@ -1492,12 +1492,16 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 https://in-mc-fdlive.fancode.com/mumbai/138207_english_hls_5230361d2f54310_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138253_5765_SL-A_BN-A_fc-web_1763068129266.jpg" group-title="Fancode-Cricket", Sri Lanka A vs Bangladesh A (ACC Asia Cup Rising Stars 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763605323~acl=/*~id=64287428542929092539044165585397~hmac=712ce524068af5fd55de4c5d065fff45263738cc21bd0ac212ced3658fe6355a
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137583_5720_WOL-W_MUN-W_fc-web.jpg" group-title="Fancode-Football", VfL Wolfsburg Women vs Manchester United Women (UEFA Women's Champions League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137583_english_hls_04c50fde5622470_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138045_english_hls_ab706196a2229_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Jamaica Scorpions vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138044_english_hls_3cbc444e986818_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" group-title="Fancode-Cricket", England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137584_5720_JUV-W_OLY-W_fc-web.jpg" group-title="Fancode-Football", Juventus Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/137584_english_hls_c460e9f6ec94769_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1679,7 +1683,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763614334~acl=/*~id=84697377645928525645586074088976~hmac=864c641dd4d74c933e27a667365dc09db5603ef78f7ec7e5e6efe3620db8f7f2
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011480/1763404513508453_ACRS25_SL_A_VS_BAN_A_17nov_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka A vs Bangladesh A - 19 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763616159~acl=/*~id=85618978637824946351959770387433~hmac=55492d920b1fb519ea630f1532930ed9f5fc036515a5d948fb6a3c1337ccca46
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763616768~acl=/*~id=20404282016267859559318345912187~hmac=939a7437a57da6fecce245a0a1814e77fefc235427eaa4217356cca67326b0be
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
