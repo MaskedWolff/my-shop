@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763772152~exp=1763858552~acl=/*~hmac=adc3517fda84911869035b697c6c53bc47240268ffa17e8b0c0aec39eedc95ab&xxx=%7Ccookie=__hdnea__=st=1763772152~exp=1763858552~acl=/*~hmac=adc3517fda84911869035b697c6c53bc47240268ffa17e8b0c0aec39eedc95ab
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png" group-title="Fancode-Formula 1", Qualifying vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)
-https://d3seoyp01tmqda.cloudfront.net/out/v1/6c2d5192a8b44125819a58894b0411b0/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png" group-title="Fancode-Cricket", Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c3566_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg" group-title="Fancode-Cricket", West Indies vs New Zealand (West Indies tour of New Zealand, 2025)
@@ -1502,6 +1500,8 @@ https://in-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40653330_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f224160_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL_Karnali-Yaks_vs_Lumbini-lions_Old_match-card_02.jpg" group-title="Fancode-Cricket", Lumbini Lions vs Karnali Yaks (Nepal Premier League, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138299_english_hls_b1aa0ebaca11882_1adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png" group-title="Fancode-Formula 1", Qualifying vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)
+https://d3seoyp01tmqda.cloudfront.net/out/v1/6c2d5192a8b44125819a58894b0411b0/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1683,7 +1683,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1763830054~acl=/*~id=00627921010703234932585558204373~hmac=bcbdda3fb6f473bc70d213c7abd57ac9b75896e4f5f9fd837c22c250667a11b4
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011489/1763440827784214_NZvsWI25_3rd_ODI_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd ODI - 22 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763831877~acl=/*~id=72278874931131064366755119498517~hmac=fb4179098825d92098ba11405ee8b1d7a0089f5b63d8914e18671a20afa658f2
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1763833095~acl=/*~id=92423478430122066795355142602745~hmac=72dd894007281f197add41a37600531c9c68e96709e43208abb172e797672438
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
