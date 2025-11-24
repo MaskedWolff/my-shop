@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1763982536~exp=1764068936~acl=/*~hmac=4cc7f74bba89111c90feeb4fbfef5376db691e03dc7244fd32db4ef0ce8078b4&xxx=%7Ccookie=__hdnea__=st=1763982536~exp=1764068936~acl=/*~hmac=4cc7f74bba89111c90feeb4fbfef5376db691e03dc7244fd32db4ef0ce8078b4
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130952_5427_ESL_SEV_fc-Web.jpg" group-title="Fancode-Football", RCD Espanyol vs Sevilla FC (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130952_english_hls_99ed24276588792_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" group-title="Fancode-Cricket", West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138039_english_hls_fcb862dcd94142_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136070_5647_AAS_SHJ_fc-Web.jpg" group-title="Fancode-Football", Al-Ahli Saudi FC vs Sharjah (AFC Champions League Elite 2025-26)
