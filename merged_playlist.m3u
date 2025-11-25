@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764031397~exp=1764117797~acl=/*~hmac=001c6eba247ebb29264dc92abc7895444e86c4eb370e8f4423b421e88997f5e1&xxx=%7Ccookie=__hdnea__=st=1764031397~exp=1764117797~acl=/*~hmac=001c6eba247ebb29264dc92abc7895444e86c4eb370e8f4423b421e88997f5e1
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138415_5777_BEL_IND_fc-Web.jpg" group-title="Fancode-Hockey", Belgium vs India (Sultan Azlan Shah Cup)
-https://in-mc-fdlive.fancode.com/mumbai/138415_english_hls_9fc00b3f8265011_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138453_CASACARDS_APP.png" group-title="Fancode-Cricket", Bahrain vs Malaysia (Mini SEA Games Men's T20, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138453_english_hls_dcffcc407a81112_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138093_5758_UAE-W_UG-W_FC-Web.jpg" group-title="Fancode-Cricket", Uganda Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)
