@@ -1488,12 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764117887~exp=1764204287~acl=/*~hmac=9d1b24b21fbfb787974327ee8bd02708f58749c8571c1f2cbdafe52aabe6f810&xxx=%7Ccookie=__hdnea__=st=1764117887~exp=1764204287~acl=/*~hmac=9d1b24b21fbfb787974327ee8bd02708f58749c8571c1f2cbdafe52aabe6f810
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg" group-title="Fancode-Cricket", Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg" group-title="Fancode-Cricket", Chitwan Rhinos vs Biratnagar Kings (Nepal Premier League, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138304_english_hls_985fc8490194243_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136023_5647_ULS_BU_fc-Web.jpg" group-title="Fancode-Football", Ulsan HD vs Buriram United (AFC Champions League Elite 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136023_english_hls_28c3cbff9761957_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138419_5777_IND_ML_fc-Web.jpg" group-title="Fancode-Hockey", India vs Malaysia (Sultan Azlan Shah Cup)
 https://in-mc-fdlive.fancode.com/mumbai/138419_english_hls_c3f6bd17bb50998_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136023_5647_ULS_BU_fc-Web.jpg" group-title="Fancode-Football", Ulsan HD vs Buriram United (AFC Champions League Elite 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/136023_english_hls_28c3cbff9761957_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
