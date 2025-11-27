@@ -1673,9 +1673,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764311402~acl=/*~id=b42319daaf7748c3b58f06cc3ab694d8-1764268200183~hmac=5444775cf94683f98cdc301e040ee69754eca3993eefdc8fae5a364fc52eeb1b
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762617067219622_UEL25_md5_AstonVilla_vs_YoungBoys_landscape_thumb.jpg" group-title="sonyliv-Football", Aston Villa vs Young Boys - MD 5 - 27 Nov 2025 [ENG] - UEFA Europa League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764312011~acl=/*~id=87417580431891599273004190318133~hmac=c8848101362662162ff08da464e8673f5ead7caa69d214110c8639676f9ba88f
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011067/1762616396094622_UEL25_md5_Roma_vs_Midtjylland_landscape_thumb.jpg" group-title="sonyliv-Football", Roma vs Midtjylland - MD 5 - 27 Nov 2025 [ENG] - UEFA Europa League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764312011~acl=/*~id=87417580431891599273004190318133~hmac=c8848101362662162ff08da464e8673f5ead7caa69d214110c8639676f9ba88f
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764313228~acl=/*~id=69833844261456681139517687122766~hmac=d85d7b25e3530c421dd63412c5bebc2e60922b9e2cca42459dd155dbc0c10b5d
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
