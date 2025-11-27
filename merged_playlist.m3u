@@ -1488,10 +1488,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda&xxx=%7Ccookie=__hdnea__=st=1764204227~exp=1764290627~acl=/*~hmac=8f2c5c8ee1add040c106edbf26fa8cd013834421a179f417ed36ea495eba3fda
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138452_5780_BAH_TL_fc-Web_1764057419157.jpg" group-title="Fancode-Cricket", Thailand vs Bahrain (Mini SEA Games Men's T20, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138452_english_hls_4327f9396710132_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Australian-PGA-Championship-old-match-card-(1).png" group-title="Fancode-Golf", Day 1 vs Brisbane (BMW Australian PGA Championship)
 https://in-mc-fdlive.fancode.com/mumbai/138610_english_hls_922e8657d264426_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138452_5780_BAH_TL_fc-Web_1764057419157.jpg" group-title="Fancode-Cricket", Thailand vs Bahrain (Mini SEA Games Men's T20, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138452_english_hls_4327f9396710132_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
