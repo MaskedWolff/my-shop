@@ -1488,14 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764290596~exp=1764376996~acl=/*~hmac=8db685f3f715a84af22e448233c5796b99534c9b735d2147475c171519b3ce04&xxx=%7Ccookie=__hdnea__=st=1764290596~exp=1764376996~acl=/*~hmac=8db685f3f715a84af22e448233c5796b99534c9b735d2147475c171519b3ce04
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138454_5780_MAS_TL_fc-Web_1764057419160.jpg" group-title="Fancode-Cricket", Malaysia vs Thailand (Mini SEA Games Men's T20, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138454_english_hls_c90e95f8ec84057_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138098_5758_UG-W_TANW_FC-Web.jpg" group-title="Fancode-Cricket", Tanzania Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138098_english_hls_f6b2e8c35f94002_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138097_5758_TL-W_UAE-W_FC-Web.jpg" group-title="Fancode-Cricket", United Arab Emirates Women vs Thailand Women (ICC Women's Emerging Nations Trophy, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138097_english_hls_53c461e39093318_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Australian-PGA-Championship-old-match-card-(1).png" group-title="Fancode-Golf", Day 2 vs Brisbane, Australia (BMW Australian PGA Championship)
 https://in-mc-fdlive.fancode.com/mumbai/138611_english_hls_311d8135649674_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138098_5758_UG-W_TANW_FC-Web.jpg" group-title="Fancode-Cricket", Tanzania Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138098_english_hls_f6b2e8c35f94002_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1677,7 +1675,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764347294~acl=/*~id=93724159473597610015355531364775~hmac=f196cf8efc949c969dbd25de3977181028a2a88be0b3ad6376d1896f19c5a35c
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262620967621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_SF_27nov_landscape_thumb.jpg" group-title="sonyliv-Tennis", Semi-Finals - Asia-Pacific Wildcard Playoff - 28 Nov 2025 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764347904~acl=/*~id=24534671065045804434091939144150~hmac=0901516a80adc984b4d3817a5b81a3e0f99a0ab26fb779406622f390f0836917
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764349729~acl=/*~id=08315000764940497962654687597830~hmac=36bd60e026b1bab58ca6200938fdf6ae6bf23e7410b106680d8c8f1f195a9888
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
