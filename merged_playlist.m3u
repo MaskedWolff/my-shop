@@ -1488,12 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764414432~exp=1764500832~acl=/*~hmac=2f912ea94be88246b95f5ef71316de41aba441c07c057e78dc3d89af0de1adaa&xxx=%7Ccookie=__hdnea__=st=1764414432~exp=1764500832~acl=/*~hmac=2f912ea94be88246b95f5ef71316de41aba441c07c057e78dc3d89af0de1adaa
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Sprint vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
+https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg" group-title="Fancode-Cricket", Ireland vs Bangladesh (Ireland tour of Bangladesh, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130961_5427_MRC_OSN_fc-Web.jpg" group-title="Fancode-Football", RCD Mallorca vs CA Osasuna (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Sprint vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
-https://d298m24bixdmlx.cloudfront.net/out/v1/6e9cee9f0b2f41de84b88eed230b1efe/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web_1763729430432.png" group-title="Fancode-Cricket", Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138231_english_hls_e1931d577b79253_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" group-title="Fancode-Cricket", England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)
@@ -1682,6 +1682,16 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764462848~acl=/*~id=39697060694605206433307768296378~hmac=7533a280e95abadeb125e9b41dde34749726a1c3df959f3a81de0e8d947ed2f3
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629395785273_Bliga2526_MD12_Bayern-Munich-vs-St-Pauli_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Bayern Munich vs St Pauli - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="sonyliv-Football", Goal Arena - MD 11 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629321629623_Bliga2526_MD12_Union-Berlin-vs-Heidenheim_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Union Berlin vs Heidenheim - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629397831443_Bliga2526_MD12_Hoffenheim-vs-FC-Augsburg_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Hoffenheim vs FC Augsburg - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011434/17629399963793_Bliga2526_MD12_Werder-Bremen-vs-FC-Koln_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs FC Koln - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764468373~acl=/*~id=51601134979063540258365621531338~hmac=617cff86c486d3288418447628ec7654ccb5a942470dbea021af92669952a9d4
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
