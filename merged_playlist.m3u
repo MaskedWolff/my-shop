@@ -1488,16 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764414432~exp=1764500832~acl=/*~hmac=2f912ea94be88246b95f5ef71316de41aba441c07c057e78dc3d89af0de1adaa&xxx=%7Ccookie=__hdnea__=st=1764414432~exp=1764500832~acl=/*~hmac=2f912ea94be88246b95f5ef71316de41aba441c07c057e78dc3d89af0de1adaa
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg" group-title="Fancode-Cricket", England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138041_english_hls_247df7f00026607_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130968_5427_ATL_RO_Web_1763971793807.jpg" group-title="Fancode-Football", Atletico de Madrid vs Real Oviedo (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130968_english_hls_a38b696af539905_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg" group-title="Fancode-Cricket", Trinidad & Tobago Red Force vs Barbados Pride (CG United Super50 Cup, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138059_english_hls_38216a413471243_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138071_CASACARDS_APP.png" group-title="Fancode-Football", Real Valladolid vs Málaga (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138071_english_hls_11b2b8a49a35816_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR-AIRWAYS-QATAR-GRAND-PRIX-2025-old-match-card.png" group-title="Fancode-Formula 1", Qualifying vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)
-https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
