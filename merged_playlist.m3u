@@ -1681,7 +1681,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764485445~acl=/*~id=43499764790984317765560102983873~hmac=5364bddd15fcbf7f7a6330a5ef55fce4a5d1980be81c1f00e21a80c9762a8451
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176336828523435_Bliga2526_MD12_Bayer-Leverkusen-vs-Borussia-Dortmund_12nov__landscape_thumb.jpg" group-title="sonyliv-Football", Bayer Leverkusen vs Borussia Dortmund - MD 12 - 29 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764486660~acl=/*~id=01881351518411463808477435840145~hmac=fd324525f32c01caed9758384f6ea54c6dd64a936eb8fc7b45be2b3120f28e6b
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764487268~acl=/*~id=40165745054867077700248349790245~hmac=7f87a3898d43040f60f96714a620142a8f0ae908eda3781465e780a3dfbbbf4b
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
