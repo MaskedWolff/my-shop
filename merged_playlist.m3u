@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764376992~exp=1764463392~acl=/*~hmac=549908dfdb51c186cca962b169eccdcd9ba6c48727a533e8cd599eeeb60b7c77&xxx=%7Ccookie=__hdnea__=st=1764376992~exp=1764463392~acl=/*~hmac=549908dfdb51c186cca962b169eccdcd9ba6c48727a533e8cd599eeeb60b7c77
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Prime-Minister's-XI-vs-England-old-match-card.png" group-title="Fancode-Cricket", Prime Ministers XI vs England (England tour of Australia, Tour Match, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138657_english_hls_adec7aab1689551_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BMW-Australian-PGA-Championship-old-match-card-(1).png" group-title="Fancode-Golf", Day 3 vs Brisbane, Australia (BMW Australian PGA Championship)
 https://in-mc-fdlive.fancode.com/mumbai/138612_english_hls_b03bd9df0899278_1ta-di_h264/index.m3u8
 # --- external_willow ---
