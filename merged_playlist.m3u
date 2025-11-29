@@ -1675,7 +1675,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764435499~acl=/*~id=92646474181904150010162144405093~hmac=7607a578e197779f2ea40bbceafab06f9958563814b08dbd3ba50fb548b2f186
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011860/1764262634730621_AO2026_ASIA_PACIFIC_WILDCARD_PLAYOFF_27nov_finals_landscape_thumb.jpg" group-title="sonyliv-Tennis", Finals - Asia-Pacific Wildcard Playoff - 29 Nov 2025 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764436720~acl=/*~id=47770654296788714602801745796772~hmac=c0cfd28aebf7f3124b5ca0b5a7d0042b2e8fb92b2d728e75a5a14f691e5e3b3f
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764437937~acl=/*~id=45427638202511031344837583962274~hmac=684d1095756b302ab459f859edc4a1d93fe88edb3d113e17a3ed6d5700a7debd
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
