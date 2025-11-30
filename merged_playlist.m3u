@@ -1681,7 +1681,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764554153~acl=/*~id=15728566558308742276577048337767~hmac=a7d685acae4bb32a72fa84c1f79a14a2d7ec073bfbffc1547a0c81487bdcfd39
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011513/176337201980035_Bliga2526_MD12_Hamburg-SV-vs-VfB-Stuttgart_12nov_landscape_thumb.jpg" group-title="sonyliv-Football", Hamburger SV vs VfB Stuttgart - MD 12 - 30 Nov 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764555372~acl=/*~id=36480486857490981558838111728748~hmac=b4a0da5337ffd3ad456f7f243e44c2de5a8204ca9204ae9af2c1e0a956c98e78
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764556592~acl=/*~id=53947374794106117805760272461374~hmac=8551040c7d88ff7c75000d54f3c2e405a7c05dd7b5b8f0a180af5139ac10a692
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
