@@ -1492,6 +1492,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?&xxx=%7
 https://in-mc-fdlive.fancode.com/mumbai/130962_english_hls_10f4b6cb7720040_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Birmingham-City-F.C.-VS-Watford-F.C._old.jpg" group-title="Fancode-Football", Birmingham City F.C. vs Watford F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136970_english_hls_2d1d5ed77d19960_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764667454~acl=/*~id=01917088425951532260787223407461~hmac=97659f4db48ee7ee783a94e3310c553b670b8a6ad4581fd29855c9fe0c4fffd8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1673,7 +1675,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764635402~acl=/*~id=3a462950927783e9d54c54b0c2288b45-1764592200132~hmac=849afbd420b21cb3eb1a2a0ff9cd2a63d07d7908501ad034ab52c88161671801
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507798698522_NZvsWI25_1st_test_day1_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 2 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764667297~acl=/*~id=76257135680293922055192872253053~hmac=94ac8df5b55ffc5efe57178266481e5a601f0e32ca135724039cf6d101c1c84a
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764667907~acl=/*~id=35876183815165268237498404841470~hmac=a2970e10cf41dc8dc414c229a86a305a282a108e3cad6fd38ac4fb2532ff57c8
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
