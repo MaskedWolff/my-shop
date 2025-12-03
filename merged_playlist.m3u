@@ -1673,7 +1673,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1764808203~acl=/*~id=a6c86f1726ef520734aa60e99f9d13d5-1764765000142~hmac=3106ff9c0ca315acfe0d2346c279cd1c1e7ae748c935756fe7fa0b92c3c87fd2
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011927/1764507849820522_NZvsWI25_1st_test_day3_30nov_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 3 - 4 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764839277~acl=/*~id=29881275589155715908554369729990~hmac=d1560a167e6c2f15159e127b655c9ab115ea7fe4fea5be7efdf13e07b41f1e11
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1764840491~acl=/*~id=57429440354569082330500543235220~hmac=b5654595eeac408c361c132638b2ca7c88e256cd44a40d0651bb334c88685f42
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
