@@ -1488,8 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1765058904~exp=1765145304~acl=/*~hmac=767c8b93461fafa429458d4c7e8b2e13d40e9b48c23e69274eb597fd57a061f7&xxx=%7Ccookie=__hdnea__=st=1765058904~exp=1765145304~acl=/*~hmac=767c8b93461fafa429458d4c7e8b2e13d40e9b48c23e69274eb597fd57a061f7
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130979_5427_ATH_ATL_fc-Web.jpg" group-title="Fancode-Football", Athletic Club vs Atletico de Madrid (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130979_english_hls_f51551c30624650_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg" group-title="Fancode-Cricket", Western Australia vs Victoria (Sheffield Shield, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce70992_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
