@@ -1488,7 +1488,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1764981808~exp=1765068208~acl=/*~hmac=bffcd924e504f2c4a22288e72d759a7282ea0daf9325f3c1b867d0c03f28731c&xxx=%7Ccookie=__hdnea__=st=1764981808~exp=1765068208~acl=/*~hmac=bffcd924e504f2c4a22288e72d759a7282ea0daf9325f3c1b867d0c03f28731c
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-bahrain-web.jpg" group-title="Fancode-Cricket", Oman Women vs Bahrain Women (Oman Women's T20I Triangular Series, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-bahrain-web.jpg" group-title="Fancode-Cricket", Bahrain Women vs Oman Women (Oman Women's T20I Triangular Series, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138708_english_hls_8b3f861b1837963_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138319_5771_CWR_PKA_FC-Web_1764576119607.jpg" group-title="Fancode-Cricket", Chitwan Rhinos vs Pokhara Avengers (Nepal Premier League, 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138319_english_hls_2e1306b52559062_1ta-di_h264/index.m3u8
