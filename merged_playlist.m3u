@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1765364974~exp=1765451374~acl=/*~hmac=05adcc77db97149a48bd6036ea81e664f7e1a4e75cd80b6271a4e93fa958f249&xxx=%7Ccookie=__hdnea__=st=1765364974~exp=1765451374~acl=/*~hmac=05adcc77db97149a48bd6036ea81e664f7e1a4e75cd80b6271a4e93fa958f249
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137597_5720_BAR-W_BEN-W_fc-web.jpg" group-title="Fancode-Football", Barcelona Women vs Benfica Women (UEFA Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137597_english_hls_9914a92fa955002_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136978_5489_HUL_WRX_fc-web.jpg" group-title="Fancode-Football", Hull City vs Wrexham A.F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136978_english_hls_2ecf71ede99421_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137600_5720_CHE-W_ROM-W_fc-web.jpg" group-title="Fancode-Football", Chelsea F.C. Women vs Roma Women (UEFA Women's Champions League 2025-26)
@@ -1498,8 +1496,6 @@ https://in-mc-fdlive.fancode.com/mumbai/137600_english_hls_7193987d9244471_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/137599_english_hls_f5585e759a54262_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137598_5720_ATL-W_BAY-W_fc-web.jpg" group-title="Fancode-Football", Club Atletico de Madrid Femenino vs Bayern Munich Women (UEFA Women's Champions League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/137598_english_hls_a8e04758e026714_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137596_5720_VAL-W_PFC-W_fc-web.jpg" group-title="Fancode-Football", Valerenga Fotball Women vs Paris FC Women (UEFA Women's Champions League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/137596_english_hls_f9adcd576b87957_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1681,25 +1677,25 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765439761~acl=/*~id=13671879958670932991207740828975~hmac=eb779ab7ad5f4db781b8a12beb58a5fc692430830413df1b0e61c1a4ab577d9c
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011890/1764321309849138_UCL_25_26_MD6_Real-Madrid-vs-Man-City_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Man City - MD 6 - 11 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011890/1764321309849138_UCL_25_26_MD6_Real-Madrid-vs-Man-City_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Man City - MD 6 - 11 Dec 2025 [HIN] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011890/1764321309849138_UCL_25_26_MD6_Real-Madrid-vs-Man-City_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Man City - MD 6 - 11 Dec 2025 [TAM] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011890/1764321309849138_UCL_25_26_MD6_Real-Madrid-vs-Man-City_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Man City - MD 6 - 11 Dec 2025 [TEL] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011890/1764310265987138_UCL_25_26_MD6_Club-Brugge-vs-Arsenal_landscape_thumb.jpg" group-title="sonyliv-Football", Club Brugge vs Arsenal - MD 6 - 11 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011854/1764168762658622_UCL_25_26_MD6_Athletic-Club-vs-Paris_landscape_thumb.jpg" group-title="sonyliv-Football", Athletic vs PSG - MD 6 - 11 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011885/1764223689754789_UCL_25_26_MD6_Leverkusen-vs-Newcastle_landscape_thumb.jpg" group-title="sonyliv-Football", Leverkusen vs Newcastle - MD 6 - 11 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011885/1764234203476789_UCL_25_26_MD6_Dortmund-vs-Bodo-Glimt_landscape_thumb.jpg" group-title="sonyliv-Football", Dortmund vs Bodo/Glimt - MD 6 - 11 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011890/1764321035482138_UCL_25_26_MD6_Juventus-vs-Pafos_landscape_thumb.jpg" group-title="sonyliv-Football", Juventus vs Pafos - MD 6 - 11 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011885/1764223929211789_UCL_25_26_MD6_Benfica-vs-Napoli_landscape_thumb.jpg" group-title="sonyliv-Football", Benfica vs Napoli - MD 6 - 11 Dec 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765440374~acl=/*~id=13312737361260502116110684147538~hmac=5a1d24e9e874f4319a0ac127be8e80b30c9edcf59508bb485b9424365693455a
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765442212~acl=/*~id=24817481861868428075791616424527~hmac=f72bf3f25244487c7975c3a82776edc34eb2fab6d0bb4c6e0ce07200ee1b67dd
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
