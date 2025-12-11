@@ -1670,6 +1670,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765475680~acl=/*~id=20814733718968538267500009605210~hmac=549451b142e7977723315dd85fd68512d3cfb685c01d3281bb11a51e51d808e4
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737872643679_AsianTour25_Saudi_Open_presented_by_PIF_Day2_2dec_landscape_thumb.jpg" group-title="sonyliv-Golf", PIF Saudi Open - Day 2 - 11 Dec 2025 [ENG] - Asian Tour 2025
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765488449~acl=/*~id=56084871550372654532047138641620~hmac=f0ad99d84db3a11d8ea22d3ec58ddb3b1af0dd12c0e2e29bf38e7ff990d97c12
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
