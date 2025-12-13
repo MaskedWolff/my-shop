@@ -1488,10 +1488,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1765624037~exp=1765710437~acl=/*~hmac=89d3d55a4fbbf585fa229158c465f9f66e490d7c44c615904949ec226cf7cd81&xxx=%7Ccookie=__hdnea__=st=1765624037~exp=1765710437~acl=/*~hmac=89d3d55a4fbbf585fa229158c465f9f66e490d7c44c615904949ec226cf7cd81
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs CA Osasuna (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130984_5427_GEF_ESL_fc-web.jpg" group-title="Fancode-Football", Getafe CF vs RCD Espanyol (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138620_CASACARDS_APP.png" group-title="Fancode-Football", Real Zaragoza vs Cádiz (LALIGA Hypermotion 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138620_english_hls_de9c8afe1380585_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" group-title="Fancode-Golf", Day 2 vs Tiburón Golf Club (Grant Thornton Invitational)
 https://in-mc-fdlive.fancode.com/mumbai/138729_english_hls_509a3b62cb30853_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs CA Osasuna (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1673,7 +1677,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765695036~acl=/*~id=63343268901480637962893322449611~hmac=97928f1706426b922a132afa89f2c2f8dd28a0c25c4788256ea61bb47913545b
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg" group-title="sonyliv-Football", Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765697470~acl=/*~id=81334369346536104093856948120318~hmac=61f49166886eb82bc35102038fb089b4ebbfdb90095a02be213a68124780c3b7
+https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765698079~acl=/*~id=51697269304851351022324560350722~hmac=7a9da0bf92875a202ebeb63077fc4665d1867e2f17abc7e0029929255b29fb25
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
