@@ -1673,9 +1673,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765651783~acl=/*~id=84158782169502772932543992174886~hmac=fd8512888dfe10f907b582df392d96e2a3469f993456a125d650158e8ea73b00
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765653609~acl=/*~id=52501863183847330970648918743699~hmac=44f43fcd35f3b17887f847a7341bc944ffa89ac4ed1feca75c15609c844ab252
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765654828~acl=/*~id=32953104541625327360114652810402~hmac=fdfeab8a9fc4b75747f809068bb530ee4b356ca47f05c38daf5e6667e14e34fe
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012248/1765446765258679_AC25_U19_SL_vs_NEP_11dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka U19 vs Nepal U19 - 13 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765653609~acl=/*~id=52501863183847330970648918743699~hmac=44f43fcd35f3b17887f847a7341bc944ffa89ac4ed1feca75c15609c844ab252
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765654828~acl=/*~id=32953104541625327360114652810402~hmac=fdfeab8a9fc4b75747f809068bb530ee4b356ca47f05c38daf5e6667e14e34fe
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
