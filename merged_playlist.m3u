@@ -1490,6 +1490,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 # --- external_fancode ---
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138637_5786_DV_DC_FC-Web.jpg" group-title="Fancode-Cricket", Dubai Capitals vs Desert Vipers (DP World ILT20 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138637_english_hls_1b85ddf4e932717_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg" group-title="Fancode-Golf", Day 3 vs Tiburón Golf Club (Grant Thornton Invitational)
+https://in-mc-fdlive.fancode.com/mumbai/138730_english_hls_b8b4aee44e51905_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1671,7 +1673,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765776106~acl=/*~id=87958016243662355836628670819054~hmac=5ae2ca57f7f33a1b919d031d0391485404ed06ef3e9153d33282ea67acd19097
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309988748124_Bundesliga_MD14_BayernMunich_vs_Mainz_Landscape_thumb.jpg" group-title="sonyliv-Football", Bayern Munich vs Mainz - MD 14 - 14 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765777325~acl=/*~id=04546679287065786511753925574729~hmac=267059c34bed63ee9950c36ec4da47f394fe9e4234bce857c187e9ca5d35ac72
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765778545~acl=/*~id=76580900823692678831018831648888~hmac=e4d2328d9f9402de3ec130ea4273b76f7ef983d7050569a95479f822aba19462
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764310946965124_Bundesliga_MD14_WerderBremen_vs_VfB_Stuttgart_Landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs VfB Stuttgart - MD 14 - 15 Dec 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765778545~acl=/*~id=76580900823692678831018831648888~hmac=e4d2328d9f9402de3ec130ea4273b76f7ef983d7050569a95479f822aba19462
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
