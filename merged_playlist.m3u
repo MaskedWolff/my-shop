@@ -1492,8 +1492,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 https://in-mc-fdlive.fancode.com/mumbai/138637_english_hls_1b85ddf4e932717_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130981_5427_CEV_ATH_fc-web.jpg" group-title="Fancode-Football", RC Celta vs Athletic Club (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130981_english_hls_c9e2f5fc2f47732_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130986_5427_SEV_RO_fc-web.jpg" group-title="Fancode-Football", Sevilla FC vs Real Oviedo (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130986_english_hls_19c9fb892719297_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1675,7 +1673,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765766972~acl=/*~id=27678002529157185288598567319488~hmac=aa5af9443ce5efd39abdc4d4d92ad971f9735bda90a3fb139a46f30ab486cd8a
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764309717719124_Bundesliga_MD14_SC_Freiburg_vs_BorussiaDortmund_landscape_thumb.jpg" group-title="sonyliv-Football", SC Freiburg vs Borussia Dortmund - MD 14 - 14 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765768802~acl=/*~id=37853658362348093070469605440060~hmac=38b833ba4f33339ed3f341c5ff9e6fdac2e97278a129dc39f997c033db36899a
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765770019~acl=/*~id=02568532285911759825329372090997~hmac=5fdb4a762582b348ae13bb18431cfe1080772db7fd565fff8dd4b9e697ea8fe2
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
