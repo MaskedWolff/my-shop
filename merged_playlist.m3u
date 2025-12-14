@@ -1490,8 +1490,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 # --- external_fancode ---
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg" group-title="Fancode-Cricket", Sharjah Warriorz vs MI Emirates (DP World ILT20 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138636_english_hls_bcbeaeaa7b56276_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Alfred-Dunhill-Championship_Old-Match-Card.png" group-title="Fancode-Golf", Day 4 vs Royal Johannesburg Club, Johannesburg, South Afric (Alfred Dunhill Championship)
-https://in-mc-fdlive.fancode.com/mumbai/138694_english_hls_b1d81083f970356_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1673,17 +1671,17 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1765752961~acl=/*~id=47049026903489164967766416081878~hmac=dc2546d1cfeecfa24601cda00c8cfba794fe42b575cccba934bd718486d01955
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012363/1765623132326611_AC25_U19_IND_vs_PAK_13dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - 14 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754181~acl=/*~id=70060698242675745363244084626245~hmac=67e9c798a2e57c81caaf5c9642319288756aafd15ddd04f886b3ac1fb548b130
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754790~acl=/*~id=24225196045210697943555787654783~hmac=7306ac3ae2fc142939242fd724cd6e9714898cbbeb1001251834f0a048020191
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012363/1765623132326611_AC25_U19_IND_vs_PAK_13dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - 14 Dec 2025 [HIN] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754181~acl=/*~id=70060698242675745363244084626245~hmac=67e9c798a2e57c81caaf5c9642319288756aafd15ddd04f886b3ac1fb548b130
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754790~acl=/*~id=24225196045210697943555787654783~hmac=7306ac3ae2fc142939242fd724cd6e9714898cbbeb1001251834f0a048020191
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012363/1765623132326611_AC25_U19_IND_vs_PAK_13dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - 14 Dec 2025 [TAM] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754181~acl=/*~id=70060698242675745363244084626245~hmac=67e9c798a2e57c81caaf5c9642319288756aafd15ddd04f886b3ac1fb548b130
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754790~acl=/*~id=24225196045210697943555787654783~hmac=7306ac3ae2fc142939242fd724cd6e9714898cbbeb1001251834f0a048020191
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012363/1765623132326611_AC25_U19_IND_vs_PAK_13dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - 14 Dec 2025 [TEL] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754181~acl=/*~id=70060698242675745363244084626245~hmac=67e9c798a2e57c81caaf5c9642319288756aafd15ddd04f886b3ac1fb548b130
+https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754790~acl=/*~id=24225196045210697943555787654783~hmac=7306ac3ae2fc142939242fd724cd6e9714898cbbeb1001251834f0a048020191
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012312/1765536441245773_Messi_India_Tour25_Mumbai_12dec_landscape_thumb.jpg" group-title="sonyliv-Football", Mumbai Event - 14 Dec 2025 [ENG] - Messi's GOAT Tour Of India
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765754181~acl=/*~id=70060698242675745363244084626245~hmac=67e9c798a2e57c81caaf5c9642319288756aafd15ddd04f886b3ac1fb548b130
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765754790~acl=/*~id=24225196045210697943555787654783~hmac=7306ac3ae2fc142939242fd724cd6e9714898cbbeb1001251834f0a048020191
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012366/1765628523593836_AC25_U19_UAE_vs_MAS_13dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", UAE U19 vs Malaysia U19 - 14 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754181~acl=/*~id=70060698242675745363244084626245~hmac=67e9c798a2e57c81caaf5c9642319288756aafd15ddd04f886b3ac1fb548b130
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765754790~acl=/*~id=24225196045210697943555787654783~hmac=7306ac3ae2fc142939242fd724cd6e9714898cbbeb1001251834f0a048020191
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
