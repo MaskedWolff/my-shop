@@ -1488,6 +1488,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1765796992~exp=1765883392~acl=/*~hmac=ccfce6fd8bd4e66e6be46a78dc9de69c0671d5ade7c50739ccd2e2fe4df12afd&xxx=%7Ccookie=__hdnea__=st=1765796992~exp=1765883392~acl=/*~hmac=ccfce6fd8bd4e66e6be46a78dc9de69c0671d5ade7c50739ccd2e2fe4df12afd
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130982_5427_RVL_RB_fc-web.jpg" group-title="Fancode-Football", Rayo Vallecano vs Real Betis (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130982_english_hls_6bfa35424890091_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/138622_CASACARDS_APP.png" group-title="Fancode-Football", Castellón vs Mirandés (LALIGA Hypermotion 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138622_english_hls_0b4826dbb738879_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
