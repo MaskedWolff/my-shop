@@ -1488,6 +1488,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1765846071~exp=1765932471~acl=/*~hmac=29b2768ed336eb48b9c4fc48f44f3f9968a28e8032156a4dbfc740d5e6839f78&xxx=%7Ccookie=__hdnea__=st=1765846071~exp=1765932471~acl=/*~hmac=29b2768ed336eb48b9c4fc48f44f3f9968a28e8032156a4dbfc740d5e6839f78
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" group-title="Fancode-Cricket", General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)
+https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e72649_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" group-title="Fancode-Cricket", Anjuman English Allana vs Dyandeep Seva Mandal (129th Harris Shield Cricket Tournament)
+https://in-mc-fdlive.fancode.com/mumbai/138911_english_hls_465e4ec22294901_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
