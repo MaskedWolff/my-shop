@@ -1488,10 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1765969794~exp=1766056194~acl=/*~hmac=7faab7cd509c12a5c2544c9a9433951f86f96e68ad4ac71763b3b942ec798479&xxx=%7Ccookie=__hdnea__=st=1765969794~exp=1766056194~acl=/*~hmac=7faab7cd509c12a5c2544c9a9433951f86f96e68ad4ac71763b3b942ec798479
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" group-title="Fancode-Cricket", General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)
-https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e15886_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2.jpg" group-title="Fancode-Cricket", Anjuman English Allana vs Dyandeep Seva Mandal (129th Harris Shield Cricket Tournament)
-https://in-mc-fdlive.fancode.com/mumbai/138911_english_hls_465e4ec22219894_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138825_5803_VBR_AMK_fc-web.jpg" group-title="Fancode-Team Tennis", VB Realty Hawks vs Aussie Mavericks Kites (World Tennis League 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138825_english_hls_f5ce856b117847_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1675,7 +1671,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766011970~acl=/*~id=92221482161786995118948665795769~hmac=fa27de2cbc70491d231f2fa8cdbe60b7939fff90d09a8f4c6d94bc98d3282aa3
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012422/1765779940878818_AC25_U19_BAN_vs_SL_15dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh U19 vs Sri Lanka U19 - 17 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766013188~acl=/*~id=81256566095635912220226035331272~hmac=0c8cac6ce37c1aff1182f3c502795bda3b51958e4c0969f3e6071fcba94a8076
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766014386~acl=/*~id=04046380619690374255472014130030~hmac=f16581cd039f35d828825fb7148f3410ef217cd5f37dae91cc166db91ea71df4
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
