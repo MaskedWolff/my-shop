@@ -1488,14 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766038424~exp=1766124824~acl=/*~hmac=9b99edcda7d2ab3fc00a44a25e7f5b1423c6cecc479d051e8a709dbbce9202df&xxx=%7Ccookie=__hdnea__=st=1766038424~exp=1766124824~acl=/*~hmac=9b99edcda7d2ab3fc00a44a25e7f5b1423c6cecc479d051e8a709dbbce9202df
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2_1765970952698.jpg" group-title="Fancode-Cricket", General Education Academy vs Al Barkat (129th Harris Shield Cricket Tournament)
-https://in-mc-fdlive.fancode.com/mumbai/138910_english_hls_ea9fe29d8e33658_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138725_5798_UAE-W_BRNW_fc-web.jpg" group-title="Fancode-Cricket", United Arab Emirates Women vs Bahrain Women (GCC Women's T20I Championship, 2025)
+https://in-mc-fdlive.fancode.com/mumbai/138725_english_hls_547753d49d97509_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg" group-title="Fancode-Golf", AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)
 https://in-mc-fdlive.fancode.com/mumbai/138695_english_hls_abe7ec7afc91418_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138827_5803_AMK_AOS_fc-web.jpg" group-title="Fancode-Team Tennis", Aussie Mavericks Kites vs AOS Eagles (World Tennis League 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138827_english_hls_9e82edd8cf18361_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138725_5798_UAE-W_BRNW_fc-web.jpg" group-title="Fancode-Cricket", United Arab Emirates Women vs Bahrain Women (GCC Women's T20I Championship, 2025)
-https://in-mc-fdlive.fancode.com/mumbai/138725_english_hls_547753d49d97509_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
