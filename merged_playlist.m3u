@@ -1672,6 +1672,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766104201~acl=/*~id=389c5632b83561e0a1ca7a4901b0bafc-1766061000135~hmac=7e5c3770d7deec2787324ab7e37f7a30d276f4eb291069b12a2b05c96ec705ea
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011931/1764523912887515_UECL2526_MD6_Crystal_Palace_vs_Kuopion_Palloseura_30nov_landscape_thumb.jpg" group-title="sonyliv-Football", Crystal Palace vs Kuopion Palloseura - MD 6 - 19 Dec 2025 [ENG] - UEFA Conference League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766129942~acl=/*~id=42014927920976775253754369970458~hmac=4e104fdf2c96c72376835326cb7fdaabf254d4b76ab19cd7924d127b99e6665a
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
