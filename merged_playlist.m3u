@@ -1488,10 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766228834~exp=1766315234~acl=/*~hmac=357f02cd052b5c1f92043162ec69a4dc095371b67f6abccaa98ea2e9017c7264&xxx=%7Ccookie=__hdnea__=st=1766228834~exp=1766315234~acl=/*~hmac=357f02cd052b5c1f92043162ec69a4dc095371b67f6abccaa98ea2e9017c7264
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130991_5427_OSN_ALA_fc-web_1765803323624.png" group-title="Fancode-Football", CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" group-title="Fancode-Football", Real Madrid vs Sevilla FC (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg" group-title="Fancode-Golf", Day 2 vs Ritz-Carlton Golf Club (PNC Championship 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138961_english_hls_d6e276404364593_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130991_5427_OSN_ALA_fc-web_1765803323624.png" group-title="Fancode-Football", CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/130991_english_hls_0147a7876a69528_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1673,7 +1675,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766299964~acl=/*~id=17439869544612969479337435485286~hmac=fc8a79022b98a709c562d68cb618d6184b10f8990fa0fc0c094daaf819f94685
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468158348842_Bundesliga_MD15_RB-Leipzig-vs-Bayer-Leverkusen_landscape_thumb.jpg" group-title="sonyliv-Football", RB Leipzig vs Bayer Leverkusen - MD 15 - 20 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766301787~acl=/*~id=54112040219951210635632780610026~hmac=d5e2f10dde733c1dec23a30b7deaecb6f887566e43fc72a3aa5159ad0d6b00c0
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766302396~acl=/*~id=06469293648173215389596118764941~hmac=0f93aa2e9e906219c8943e30d61abf5e70c034cf47d37f39a1bbf2c2d7a60f27
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
