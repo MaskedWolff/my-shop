@@ -1673,7 +1673,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766363402~acl=/*~id=fe562df1d1eccf416c538a8f518d8e18-1766320200138~hmac=db9f09bd4ab88a1a9efae6dd5a3924d22baf3018571c8f6970f76d5a3b6430e7
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468180251242_Bundesliga_MD15_Mainz-vs-St-Pauli_landscape_thumb.jpg" group-title="sonyliv-Football", Mainz vs St. Pauli - MD 15 - 21 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766368845~acl=/*~id=88133514003186974100270163129404~hmac=63b9b9750ff507062133562b292c70f5afe93848166460204b4b69a313247cbb
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766370684~acl=/*~id=58418387092653017466853540169971~hmac=98f7d43c412599ac20278d6433cb09d65f88af0e1350dd767f577f19a99b358e
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
