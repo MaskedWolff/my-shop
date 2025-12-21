@@ -1488,7 +1488,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766278326~exp=1766364726~acl=/*~hmac=bd64d2de70defa1a836fda304e5e2e65f2d7a908251fdf4f4b2eb4bb101aec6c&xxx=%7Ccookie=__hdnea__=st=1766278326~exp=1766364726~acl=/*~hmac=bd64d2de70defa1a836fda304e5e2e65f2d7a908251fdf4f4b2eb4bb101aec6c
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg" group-title="Fancode-Golf", AfrAsia Bank Mauritius Open vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg" group-title="Fancode-Golf", Day 4 vs Heritage La Réserve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)
 https://in-mc-fdlive.fancode.com/mumbai/138698_english_hls_ed53d405b244650_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
@@ -1671,13 +1671,13 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766348642~acl=/*~id=38218311335580693991533579142888~hmac=265dd8dfabf57e46b0eda571fddd04cf51aff73fa399c1ae43b284a2ec0c3505
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766349872~acl=/*~id=28602372492386570504078938878899~hmac=f6079d378ef59994de5f42a7dc11044eeb6b51a54a36de31f7eda1db8f530849
+https://liveakmt-p.slivcdn.com/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766350486~acl=/*~id=83249661957137675145513474765002~hmac=779756b4ce69be111725402f6247e26c6bc8f031ae2f56d60018e99da9361830
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [HIN] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766349872~acl=/*~id=28602372492386570504078938878899~hmac=f6079d378ef59994de5f42a7dc11044eeb6b51a54a36de31f7eda1db8f530849
+https://liveakmt-p.slivcdn.com/hls/live/2018457/DAI09-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766350486~acl=/*~id=83249661957137675145513474765002~hmac=779756b4ce69be111725402f6247e26c6bc8f031ae2f56d60018e99da9361830
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [TAM] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766349872~acl=/*~id=28602372492386570504078938878899~hmac=f6079d378ef59994de5f42a7dc11044eeb6b51a54a36de31f7eda1db8f530849
+https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766350486~acl=/*~id=83249661957137675145513474765002~hmac=779756b4ce69be111725402f6247e26c6bc8f031ae2f56d60018e99da9361830
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012573/1766171937892118_AC25_U19_final_IND_vs_PAK_19dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs Pakistan U19 - Final - 21 Dec 2025 [TEL] - DP World Men's U19 Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766349872~acl=/*~id=28602372492386570504078938878899~hmac=f6079d378ef59994de5f42a7dc11044eeb6b51a54a36de31f7eda1db8f530849
+https://liveakmt-p.slivcdn.com/hls/live/2022315/DAI11-criclive/std_lrh-800300010.m3u8?hdnea=exp=1766350486~acl=/*~id=83249661957137675145513474765002~hmac=779756b4ce69be111725402f6247e26c6bc8f031ae2f56d60018e99da9361830
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
