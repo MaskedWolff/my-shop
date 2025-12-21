@@ -1488,12 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0&xxx=%7Ccookie=__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138336_5774_MOR_COM_Mini-Match-card.jpg" group-title="Fancode-Football", Morocco vs Comoros (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138336_english_hls_f8407c372541522_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130997_5427_RB_GEF_fc-web_1765803351858.png" group-title="Fancode-Football", Real Betis vs Getafe CF (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130997_english_hls_352139d67164755_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg" group-title="Fancode-Golf", Day 3 vs Ritz-Carlton Golf Club (PNC Championship 2025)
 https://in-mc-fdlive.fancode.com/mumbai/138962_english_hls_bb8f2593f782850_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138336_5774_MOR_COM_Mini-Match-card.jpg" group-title="Fancode-Football", Morocco vs Comoros (Africa Cup of Nations 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138336_english_hls_f8407c372541522_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1674,6 +1674,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766385001~acl=/*~id=abbc48055dc02acfa2d572874db3183c-1766341800192~hmac=63dc8490e11839cb2d43392f6e5c94da7d1b64dcb9ba38fed904adbfa5bc094a
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546552805346_NZvsWI25_3rd_test_day_5_12dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Test - Day 5 - 22 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766395027~acl=/*~id=15894089867555240181713231541779~hmac=df667f15339bc38fd993b36194d5e1e619dd322e0488458bfba9db139131ca0b
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
