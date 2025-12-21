@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0&xxx=%7Ccookie=__hdnea__=st=1766315257~exp=1766401657~acl=/*~hmac=622bd1fdd8cb9f6f496f89309dd243b367209e43d1dde502eef76884902f13a0
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg" group-title="Fancode-Cricket", Desert Vipers vs MI Emirates (DP World ILT20 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138646_english_hls_4931acf80e81400_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130998_5427_ELC_RVL_fc-web_1765803345558.png" group-title="Fancode-Football", Elche CF vs Rayo Vallecano (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/130998_english_hls_ebe1582e0175925_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg" group-title="Fancode-Golf", Day 3 vs Ritz-Carlton Golf Club (PNC Championship 2025)
@@ -1675,7 +1673,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766382869~acl=/*~id=84409034514573266662062261269065~hmac=e6a2d0a10df44353cb347554a603b30ff2d72c4097c06fbdb36bb2d3742841d7
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011975/176468200831042_Bundesliga_MD15_Heidenheim-vs-Bayern-Munich_landscape_thumb.jpg" group-title="sonyliv-Football", Heidenheim vs Bayern Munich - MD 15 - 21 Dec 2025 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766384084~acl=/*~id=49972613097059756074281905825707~hmac=535bf46305b5360d02c5508a49279db1c4bf96928905f462a79b8e8740037061
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766385301~acl=/*~id=33887114211762824630084102218107~hmac=83ce1998a4534916a07acfa5f6b878ac39e3cad13305b4b0b132531083bff8e8
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
