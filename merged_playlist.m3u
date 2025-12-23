@@ -1488,10 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766527776~exp=1766614176~acl=/*~hmac=baf6d1fd07c791b1812fa61f1ab6ff692ce0ace629295568eeae221d0827989a&xxx=%7Ccookie=__hdnea__=st=1766527776~exp=1766614176~acl=/*~hmac=baf6d1fd07c791b1812fa61f1ab6ff692ce0ace629295568eeae221d0827989a
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_Arsenal-vs-Crystal-Palace-(1).jpg" group-title="Fancode-Football", Arsenal vs Crystal Palace (Carabao Cup 2025-2026)
-https://in-mc-fdlive.fancode.com/mumbai/137984_english_hls_c9d5b4a66c79248_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138341_5774_TUN_UGN_fc-web_1766386873970.jpg" group-title="Fancode-Football", Tunisia vs Uganda (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138341_english_hls_edefa3912379073_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
