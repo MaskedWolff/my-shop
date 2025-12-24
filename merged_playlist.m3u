@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766537267~exp=1766623667~acl=/*~hmac=0c775a86282d3919e54d992483c678c455ba4681dc0e92285f88506b9c5fe85b&xxx=%7Ccookie=__hdnea__=st=1766537267~exp=1766623667~acl=/*~hmac=0c775a86282d3919e54d992483c678c455ba4681dc0e92285f88506b9c5fe85b
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2_1765970952698.jpg" group-title="Fancode-Cricket", Al Barkat vs Anjuman English Allana (129th Harris Shield Cricket Tournament)
+https://in-mc-fdlive.fancode.com/mumbai/139142_english_hls_074be7c0d131230_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
