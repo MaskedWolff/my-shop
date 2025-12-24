@@ -1488,24 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766574572~exp=1766660972~acl=/*~hmac=282e8f8cdff1a6501936c68ba159d6e85c97ee031e3311407274065756e65c87&xxx=%7Ccookie=__hdnea__=st=1766574572~exp=1766660972~acl=/*~hmac=282e8f8cdff1a6501936c68ba159d6e85c97ee031e3311407274065756e65c87
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138649_5786_DC_SWR_FC-Web.jpg" group-title="Fancode-Cricket", Sharjah Warriorz vs Dubai Capitals (DP World ILT20 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138649_english_hls_4688461df473589_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", IAS Invincibles vs Majees Titans (Oman D20 League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139144_english_hls_8f96c9aa3735535_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138346_5774_IVC_MOZ_fc-web_1766386874729.jpg" group-title="Fancode-Football", Ivory Coast vs Mozambique (Africa Cup of Nations 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138346_english_hls_cd76dbdef086874_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136138_5648_ANF_ALZ_FC-Web.jpg" group-title="Fancode-Football", Al-Nassr FC vs AL Zawraa SC (AFC Champions League Two 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136138_english_hls_30dc12587a12429_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136137_5648_FCG_ISK_FC-Web.jpg" group-title="Fancode-Football", FC Goa vs FK Istiklol (AFC Champions League Two 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136137_english_hls_b06a364c1f44260_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136114_5648_ASC_ABD_FC-Web.jpg" group-title="Fancode-Football", Al Ahli (QAT) vs Andijan (AFC Champions League Two 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136114_english_hls_989506e82244186_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136113_5648_ARK_KHA_FC-Web.jpg" group-title="Fancode-Football", Arkadag vs Khaldiya (AFC Champions League Two 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136113_english_hls_a08b51f5b713716_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136102_5648_ALM_ESG_FC-Web.jpg" group-title="Fancode-Football", Al Muharraq vs Esteghlal FC (AFC Champions League Two 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136102_english_hls_d3445af9f07067_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136101_5648_AWL_ALW_FC-Web.jpg" group-title="Fancode-Football", Al Wasl vs Al Wehdat (AFC Champions League Two 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136101_english_hls_ae20b1d1b144233_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
