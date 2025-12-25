@@ -1488,8 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766660928~exp=1766747328~acl=/*~hmac=4a99e0ddac6d2f8813aa044b4ce3681ba3bd0e88c7ec4ce0b3d699b0a1a219e0&xxx=%7Ccookie=__hdnea__=st=1766660928~exp=1766747328~acl=/*~hmac=4a99e0ddac6d2f8813aa044b4ce3681ba3bd0e88c7ec4ce0b3d699b0a1a219e0
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", Royal Oman Stallions vs Yalla Shabab Giants (Oman D20 League, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139145_english_hls_efbf2358b155793_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", Renaissance Challengers vs Majees Titans (Oman D20 League, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/139146_english_hls_fb6ae42ad65469_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
