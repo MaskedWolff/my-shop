@@ -1488,12 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766747346~exp=1766833746~acl=/*~hmac=e5b080a7485d6db74743e69328d403572f80673305613cbcf7043ab734f6d676&xxx=%7Ccookie=__hdnea__=st=1766747346~exp=1766833746~acl=/*~hmac=e5b080a7485d6db74743e69328d403572f80673305613cbcf7043ab734f6d676
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138440_5655_AHS_AKH_fc-web.png" group-title="Fancode-Football", Al Hilal SFC vs Al-Khaleej (Roshn Saudi League 2025-2026)
+https://in-mc-fdlive.fancode.com/mumbai/138440_english_hls_e37867f7ce50611_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136988_5489_WRX_SHF_fc-web.jpg" group-title="Fancode-Football", Wrexham A.F.C. vs Sheffield United F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136988_english_hls_ea89a0f73035155_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138349_5774_ZMB_COM_fc-web_1766386874085.jpg" group-title="Fancode-Football", Zambia vs Comoros (Africa Cup of Nations 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138349_english_hls_2f527ce0d668135_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138440_5655_AHS_AKH_fc-web.png" group-title="Fancode-Football", Al Hilal SFC vs Al-Khaleej (Roshn Saudi League 2025-2026)
-https://in-mc-fdlive.fancode.com/mumbai/138440_english_hls_e37867f7ce50611_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
