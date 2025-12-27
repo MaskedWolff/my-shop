@@ -1669,7 +1669,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766920856~acl=/*~id=75324101412208933828989553841262~hmac=0067babe99e90dd83de3e1380f0d781dd042c8a85140945d61157a358b418a56
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012739/1766770057230665_SuperSmash2526_womens_Otago_Sparks_vs_Canterbury_Magicians_26dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Otago Sparks vs Canterbury Magicians - 28 Dec 2025 [ENG] - Super Smash 2025/26 Women's
-https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766922087~acl=/*~id=37059953570009452351630257399215~hmac=3d976b6d0d47dcf0e8060ea2c031c73cd7b328e469f41ae21c4a315f1e49b42d
+https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766922780~acl=/*~id=91309530014127878185857430820403~hmac=59cc7706d02cf8e0c9e472b66c9837e066202348bb2a7f4f78dedfa3f251de8c
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
