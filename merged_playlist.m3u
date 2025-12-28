@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1766883302~exp=1766969702~acl=/*~hmac=182ffa9fad705091709575ca6261e79a766e393ef87421fbca595537de5fecc4&xxx=%7Ccookie=__hdnea__=st=1766883302~exp=1766969702~acl=/*~hmac=182ffa9fad705091709575ca6261e79a766e393ef87421fbca595537de5fecc4
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138810_5802_MLC_PG_fc-web.jpg" group-title="Fancode-Football", Melbourne City vs Perth Glory (A League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138810_english_hls_9106e2943e91119_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
