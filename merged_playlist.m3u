@@ -1674,6 +1674,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1766968201~acl=/*~id=b22be53166d9b289bcd972927981ec29-1766925000143~hmac=64d889d6fdf7be1f62190f99d6c03abc7badbb2078fbd6ededcd2278d4e64fef
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012721/1766745312464210_BOS_2025_Aryna_Sabalenka-vs-Nick_Kyrgios_landscape_thumb.jpg" group-title="sonyliv-Tennis", Aryna Sabalenka vs Nick Kyrgios - 28 Dec 2025 [ENG] - Battle Of The Sexes
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766979625~acl=/*~id=85496951308687614917717552733605~hmac=0b89149bac80a69c180faa6ef6374fe21c55de4727beb988d450eba36c1a05f9
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
