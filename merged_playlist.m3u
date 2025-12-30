@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767055656~exp=1767142056~acl=/*~hmac=bce52651588f4d66b2a2242bea935e37aa7b18f7dd71db86d6d3e5144d567404&xxx=%7Ccookie=__hdnea__=st=1767055656~exp=1767142056~acl=/*~hmac=bce52651588f4d66b2a2242bea935e37aa7b18f7dd71db86d6d3e5144d567404
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138735_5800_OV_CS_fc-web_1766641250982.jpg" group-title="Fancode-Cricket", Otago Volts vs Central Stags (Super Smash, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138735_english_hls_5368e9832344607_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
