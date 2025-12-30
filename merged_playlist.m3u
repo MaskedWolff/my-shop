@@ -1488,10 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767092967~exp=1767179367~acl=/*~hmac=077f53ec82349dec6136ea68ec966303de02181a05e70c88af216c26566c6e62&xxx=%7Ccookie=__hdnea__=st=1767092967~exp=1767179367~acl=/*~hmac=077f53ec82349dec6136ea68ec966303de02181a05e70c88af216c26566c6e62
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138374_5774_BNI_SEN_fc-web_1766386874374.jpg" group-title="Fancode-Football", Benin vs Senegal (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138374_english_hls_9058822ae748445_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Botswana-vs-DR-Congo_fc-web.jpg" group-title="Fancode-Football", Botswana vs DR Congo (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138373_english_hls_563824bdc529815_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
