@@ -1668,6 +1668,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767158290~acl=/*~id=4cf016cd6a47406c9cc66e45fd9c4d33-1763619206321-019aa4ccba0270818b0dc5b09f6db4f8~hmac=0cdc2f03bdb4d2101664c3728fc930ad4c7cad49cc333f7cc1864d5e764907a4hdnea=exp=1767158290~acl=/*~id=4cf016cd6a47406c9cc66e45fd9c4d33-1763619206321-019aa4ccba0270818b0dc5b09f6db4f8~hmac=0cdc2f03bdb4d2101664c3728fc930ad4c7cad49cc333f7cc1864d5e764907a4
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766775827420152_SuperSmash2526_womens_Northern_Brave_vs_Wellington_Blaze_26dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Northern Brave vs Wellington Blaze - 31 Dec 2025 [ENG] - Super Smash 2025/26 Women's
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767179932~acl=/*~id=10067488928914816832260422221895~hmac=a37cef949462371b54f0df7850dc5a3280c3ca0d6996d08431ffb72bbadfc963
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
