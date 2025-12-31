@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767142196~exp=1767228596~acl=/*~hmac=601abf875d0588bfefadec800898e7346d17e74acc7cb453b29a0320b710950a&xxx=%7Ccookie=__hdnea__=st=1767142196~exp=1767228596~acl=/*~hmac=601abf875d0588bfefadec800898e7346d17e74acc7cb453b29a0320b710950a
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138812_5802_CCM_BRB_fc-web.jpg" group-title="Fancode-Football", Central Coast Mariners vs Brisbane Roar (A League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138812_english_hls_df5d3320c464235_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
