@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767265736~exp=1767352136~acl=/*~hmac=ba7482a38ab5d155e20642f4d1c437e33ca517f09c4caf2f69e4223407db99e3&xxx=%7Ccookie=__hdnea__=st=1767265736~exp=1767352136~acl=/*~hmac=ba7482a38ab5d155e20642f4d1c437e33ca517f09c4caf2f69e4223407db99e3
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138925_5808_RAN_DBR_fc-web_1766733054891.jpg" group-title="Fancode-Cricket", Rajshahi Warriors vs Rangpur Riders (Bangladesh Premier League, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg" group-title="Fancode-Cricket", Abu Dhabi Knight Riders vs Dubai Capitals (DP World ILT20 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138654_english_hls_0ecfc48b3251304_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", IAS Invincibles vs Renaissance Challengers (Oman D20 League, 2025-26)
@@ -1498,6 +1496,8 @@ https://in-mc-fdlive.fancode.com/mumbai/139158_english_hls_30b544bb9436907_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/136994_english_hls_888c12be8e43192_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png" group-title="Fancode-Football", Wycombe Wanderers vs Cardiff City (League One 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/135967_english_hls_84efa0182874587_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138925_5808_RAN_DBR_fc-web_1766733054891.jpg" group-title="Fancode-Cricket", Rajshahi Warriors vs Rangpur Riders (Bangladesh Premier League, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138925_english_hls_94185bf7d073249_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
