@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767265736~exp=1767352136~acl=/*~hmac=ba7482a38ab5d155e20642f4d1c437e33ca517f09c4caf2f69e4223407db99e3&xxx=%7Ccookie=__hdnea__=st=1767265736~exp=1767352136~acl=/*~hmac=ba7482a38ab5d155e20642f4d1c437e33ca517f09c4caf2f69e4223407db99e3
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136993_5489_SHF_LEI_fc-web.jpg" group-title="Fancode-Football", Sheffield United F.C. vs Leicester City F.C. (EFL Championship 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/136993_english_hls_bc374b493e82679_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
