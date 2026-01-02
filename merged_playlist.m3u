@@ -1696,8 +1696,6 @@ https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="Dish TV" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max 
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="Dish TV" ,Peace TV Urdu
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Dish TV", Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5vWmCQZ/images.jpg" group-title="ISLAMIC" ,Peace TV English
@@ -1842,6 +1840,8 @@ https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w5XWgiRF9lQonp4lbp3iiv6plXk5LMd0VA&usqp=CAU" group-title="ISLAMIC", Iqra TV
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="ISLAMIC" ,Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Dish TV",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_05_26-AM-200x300.png" group-title="Dish TV" ,NH BollyRaga
