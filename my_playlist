@@ -1,3 +1,5 @@
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
@@ -324,11 +326,12 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/3d81fade" group-title="ISLAMIC" ,Islam Channel Urdu
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",AL SUNNAH 
-https://ap02.iqplay.tv:8082/iqb8002/med9n1mhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwxtdrjC/1591200820461.png" group-title="ISLAMIC" tvg-id="AlQuranKareem.id" tvg-name="AlQuranKareem.id", AL Quran AL Kareem
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/f3/b0/be/f3b0be12-eacf-89d1-e559-95041f0e8fde/source/512x512bb.jpg",Eman Channel
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w5XWgiRF9lQonp4lbp3iiv6plXk5LMd0VA&usqp=CAU" group-title="ISLAMIC", Iqra TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Dish TV",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
