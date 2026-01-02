@@ -1488,10 +1488,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767352152~exp=1767438552~acl=/*~hmac=ffab5e13fe13cb8da0d225887a4d22df133d3d7c676a9015a74e52072b60a6c5&xxx=%7Ccookie=__hdnea__=st=1767352152~exp=1767438552~acl=/*~hmac=ffab5e13fe13cb8da0d225887a4d22df133d3d7c676a9015a74e52072b60a6c5
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139161_english_hls_863599e16528674_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-vs-Al-Nassr_fc-web_1767365352732.jpg" group-title="Fancode-Football", Al-Ahli Saudi FC vs Al-Nassr FC (Roshn Saudi League 2025-2026)
 https://in-mc-fdlive.fancode.com/mumbai/139198_english_hls_8e24473f2b52638_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" group-title="Fancode-Football", Eibar vs Mirandés (LALIGA Hypermotion 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138912_english_hls_c0feeb32aa10392_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1842,6 +1842,8 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2WwGBzd/images-1.jpg" group-title="ISLAMIC" ,Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ISLAMIC", Makkah TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="Dish TV",Zee Cine Classic
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_05_26-AM-200x300.png" group-title="Dish TV" ,NH BollyRaga
