@@ -1671,9 +1671,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767473776~acl=/*~id=52925083164535867200013714407372~hmac=5df19925dc70fa36ec14aaa1d8071b180e8c1fb051298cdda0363e7f3097389d
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012865/1767337567004298_UC26_Australia_vs_Norway_2jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Australia vs Norway - 3 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767475601~acl=/*~id=23873711211265642970382504301872~hmac=9598f8bd4ba89bf7a09ccd4971a3e52ef53baf25c57b1000db4c7b4673354939
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012864/1767337389784631_UC26_France_vs_Switzerland_2jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", France vs Switzerland - 3 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767475601~acl=/*~id=23873711211265642970382504301872~hmac=9598f8bd4ba89bf7a09ccd4971a3e52ef53baf25c57b1000db4c7b4673354939
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767476211~acl=/*~id=45920197356809514192874221528605~hmac=bc86cfb549738220e3cd0b6daecbebc0763201ca295087d3505c95cc98974516
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
