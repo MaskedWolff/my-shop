@@ -1488,10 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767438459~exp=1767524859~acl=/*~hmac=a12da0041e75f1cf6b03b14b84c052e005129f1bee12775063b7e769452d29da&xxx=%7Ccookie=__hdnea__=st=1767438459~exp=1767524859~acl=/*~hmac=a12da0041e75f1cf6b03b14b84c052e005129f1bee12775063b7e769452d29da
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Fancode-Cricket", Majees Titans vs IAS Invincibles (Oman D20 League, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139162_english_hls_75c3a3338234094_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-sudan_fc-web.jpg" group-title="Fancode-Football", Senegal vs Sudan (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138379_english_hls_3cbf87ddd682564_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131009_5427_ELC_VIL_fc-web.png" group-title="Fancode-Football", Elche CF vs Villarreal CF (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/131009_english_hls_e5a8bbfad987141_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Taawoun_fc-web_1767365352745.jpg" group-title="Fancode-Football", Al-Ittihad vs Al Taawoun (Roshn Saudi League 2025-2026)
