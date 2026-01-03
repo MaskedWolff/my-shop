@@ -1488,10 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767478136~exp=1767564536~acl=/*~hmac=09db7333c9b81a5ce4b6b03dd5c81ef4fc38c5f32b613128f00206f115607510&xxx=%7Ccookie=__hdnea__=st=1767478136~exp=1767564536~acl=/*~hmac=09db7333c9b81a5ce4b6b03dd5c81ef4fc38c5f32b613128f00206f115607510
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131002_5427_ESL_BAR_fc-web.png" group-title="Fancode-Football", RCD Espanyol vs FC Barcelona (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/131002_english_hls_ffca0bc4321692_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-tunisia_fc-web.jpg" group-title="Fancode-Football", Mali vs Tunisia (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138380_english_hls_f82d05426848033_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
