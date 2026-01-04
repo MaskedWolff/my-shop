@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767564550~exp=1767650950~acl=/*~hmac=f70bd2f6fa9e274da77cdf70bb6abc56731a785da34f7b34f597776d38c20e97&xxx=%7Ccookie=__hdnea__=st=1767564550~exp=1767650950~acl=/*~hmac=f70bd2f6fa9e274da77cdf70bb6abc56731a785da34f7b34f597776d38c20e97
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131001_5427_RS_ATL_fc-web.png" group-title="Fancode-Football", Real Sociedad vs Atletico de Madrid (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/131001_english_hls_61a5b6264b76453_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
