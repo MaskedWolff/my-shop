@@ -1677,7 +1677,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767577853~acl=/*~id=25575123143417678380568485507470~hmac=95f3102cac2a172c350795c8aa48b2b1da0d32397a1515f4dcad8f1e8767dc33
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012907/1767418859715450_UC26_Italy_vs_Switzerland_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Italy vs Switzerland - 4 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767579070~acl=/*~id=72017155263354986247266329318707~hmac=d51b0b4ce9cd523ad9a7247fe6f537160029b0e8b6435f15230a8e9786f5ddce
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767580289~acl=/*~id=98654783034606720726976962056889~hmac=48b4a9c957497c78d91120f632684f85db9f5078fdaea17a41540de7a65b23df
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
