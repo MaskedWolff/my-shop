@@ -1488,10 +1488,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767611428~exp=1767697828~acl=/*~hmac=6d17451015cbb53a3e7f7343b5280428e47fe7ab99e89d125ddcc6bc5bcc8871&xxx=%7Ccookie=__hdnea__=st=1767611428~exp=1767697828~acl=/*~hmac=6d17451015cbb53a3e7f7343b5280428e47fe7ab99e89d125ddcc6bc5bcc8871
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg" group-title="Fancode-Football", Nigeria vs Mozambique (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138386_english_hls_bb262e69c947373_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136996_5489_LEI_WBA_fc-web.jpg" group-title="Fancode-Football", Leicester City F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/136996_english_hls_0dcfed604a94678_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg" group-title="Fancode-Football", Nigeria vs Mozambique (Africa Cup of Nations 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138386_english_hls_bb262e69c947373_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
