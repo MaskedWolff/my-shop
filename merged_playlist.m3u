@@ -1488,8 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767650995~exp=1767737395~acl=/*~hmac=e6bb5e7b0b15c817ff8f49da39f41ea91218cfd598bdcf9882c26f22b351f326&xxx=%7Ccookie=__hdnea__=st=1767650995~exp=1767737395~acl=/*~hmac=e6bb5e7b0b15c817ff8f49da39f41ea91218cfd598bdcf9882c26f22b351f326
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg" group-title="Fancode-Cricket", Auckland Aces vs Otago Volts (Super Smash, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138741_english_hls_b36cd39d8d7465_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/133963_CASACARDS_APP.png" group-title="Fancode-Cricket", Victoria Women vs ACT Meteors (Women's National Cricket League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/133963_english_hls_7ca9b4a79566659_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/133965_CASACARDS_APP.png" group-title="Fancode-Cricket", Queensland Fire vs Tasmania Women (Women's National Cricket League, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/133965_english_hls_6f58f9021288256_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1670,8 +1674,10 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767678351~acl=/*~id=00863120022439339366033185056384~hmac=39c97b235241d947ff0a4e408c9e9240948a70b1be8efd200204b7b299ff099b
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012967/1767596813484377_SuperSmash2526_mens_Auckland_Aces_vs_Otago_Volts_5jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Auckland Aces vs Otago Volts - 6 Jan 2026 [ENG] - Super Smash 2025/26 Men's
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767699000~acl=/*~id=18813198488322775036964201740495~hmac=d2d4b5c7795a1396279db6d736b4199040acd7598120286273f6f4f609b73b5d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767427703499238_UC26_Canada-vs-Belgium_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Canada vs Belgium - 6 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767697786~acl=/*~id=50455327766679860228245224057220~hmac=2e845d99e4c76005a341382d5aafb4cff7215280b458d470f08aab93726a7f6d
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767699000~acl=/*~id=18813198488322775036964201740495~hmac=d2d4b5c7795a1396279db6d736b4199040acd7598120286273f6f4f609b73b5d
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
