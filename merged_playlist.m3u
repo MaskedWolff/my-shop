@@ -1670,6 +1670,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767678351~acl=/*~id=00863120022439339366033185056384~hmac=39c97b235241d947ff0a4e408c9e9240948a70b1be8efd200204b7b299ff099b
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012913/1767427703499238_UC26_Canada-vs-Belgium_3jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Canada vs Belgium - 6 Jan 2026 [ENG] - United Cup 2026 
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767697786~acl=/*~id=50455327766679860228245224057220~hmac=2e845d99e4c76005a341382d5aafb4cff7215280b458d470f08aab93726a7f6d
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
