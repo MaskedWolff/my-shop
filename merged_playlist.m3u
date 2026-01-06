@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767697773~exp=1767784173~acl=/*~hmac=68c8e4a7e41683f44600ba71614df100b6c52925cd73d2076f2fa8a3817fb935&xxx=%7Ccookie=__hdnea__=st=1767697773~exp=1767784173~acl=/*~hmac=68c8e4a7e41683f44600ba71614df100b6c52925cd73d2076f2fa8a3817fb935
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg" group-title="Fancode-Football", Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)
-https://in-mc-fdlive.fancode.com/mumbai/139251_english_hls_06a0584b3f96296_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" group-title="Fancode-Tennis", Centre Court - Day 2 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)
 https://in-mc-fdlive.fancode.com/mumbai/139284_english_hls_7a28b3ff2d36797_1ta-di_h264/index.m3u8
 # --- external_willow ---
