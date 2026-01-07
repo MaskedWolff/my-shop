@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767784205~exp=1767870605~acl=/*~hmac=ec1b86ff554ee0c21af51fd3cbc62e659dcf540cd0b74442936b190033784eb7&xxx=%7Ccookie=__hdnea__=st=1767784205~exp=1767870605~acl=/*~hmac=ec1b86ff554ee0c21af51fd3cbc62e659dcf540cd0b74442936b190033784eb7
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Barcelona-vs-Athletic-Club_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs Athletic Club (SuperCopa 2026)
+https://in-mc-fdlive.fancode.com/mumbai/138957_english_hls_e20fc0f05482600_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139256_5822_QAT-U23_UAE-U23_fc-web.jpg" group-title="Fancode-Football", Qatar U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139256_english_hls_a78ab4d7eb41061_1ta-di_h264/index.m3u8
 # --- external_willow ---
