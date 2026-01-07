@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767823786~exp=1767910186~acl=/*~hmac=edb96037a678952ce89e3c550c0aff6e13580884fc9e323f36d33f8f49762ae9&xxx=%7Ccookie=__hdnea__=st=1767823786~exp=1767910186~acl=/*~hmac=edb96037a678952ce89e3c550c0aff6e13580884fc9e323f36d33f8f49762ae9
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg" group-title="Fancode-Cricket", ACT Meteors vs Victoria Women (Women's National Cricket League, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/133964_english_hls_c8232439ed41862_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
