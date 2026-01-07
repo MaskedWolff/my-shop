@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767746980~exp=1767833380~acl=/*~hmac=ca564c5d8c8f819b04be39e9ed3b2c92de823ff8ee9ee0910894f19f7853b9ea&xxx=%7Ccookie=__hdnea__=st=1767746980~exp=1767833380~acl=/*~hmac=ca564c5d8c8f819b04be39e9ed3b2c92de823ff8ee9ee0910894f19f7853b9ea
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg" group-title="Fancode-Cricket", Central Stags vs Wellington Firebirds (Super Smash, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138742_english_hls_abe2a9963978817_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138940_5808_DC_NOE_fc-web_1766733054889.jpg" group-title="Fancode-Cricket", Noakhali Express vs Dhaka Capitals (Bangladesh Premier League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138940_english_hls_a8879097a196658_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" group-title="Fancode-Tennis", Show Court 1 - Day 4 vs Show Court 1, Brisbane (ATP 250 - Brisbane)
@@ -1500,6 +1498,8 @@ https://in-mc-fdlive.fancode.com/mumbai/139190_english_hls_e3450c9bd795754_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139206_english_hls_a7689c2f3e19261_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" group-title="Fancode-Tennis", Centre Court - Day 3 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)
 https://in-mc-fdlive.fancode.com/mumbai/139285_english_hls_b93736c6a4488_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg" group-title="Fancode-Cricket", Central Stags vs Wellington Firebirds (Super Smash, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138742_english_hls_abe2a9963978817_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1681,9 +1681,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767810601~acl=/*~id=744d8aaaf2ef7010ab5ba49ee0be08f5-1767767400146~hmac=696d4ca8e9a1743b083052566c4145c4b1ccab2e2eeedb149ec6e9e599a64e76
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012758/1766837945135385_SuperSmash2526_mens_Wellington-Firebirds-vs-Central-Stags_27dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Wellington Firebirds vs Central Stags - 7 Jan 2026 [ENG] - Super Smash 2025/26 Men's
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767811111~acl=/*~id=49578445922563858406333568632282~hmac=ace29b58f1eb326f33ff019e858ad92e2dfc6f509932086b27af8ba1a090ccc8
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767812938~acl=/*~id=50757599180475779634190293255734~hmac=adb3d81fccb92a50a07bebca28cf0dc72a496c023d07d4536f872bf2536f9230
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767696632540902_UC26_QF_USA_vs_greece_6jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", USA vs Greece - Quarter-final - 7 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767811111~acl=/*~id=49578445922563858406333568632282~hmac=ace29b58f1eb326f33ff019e858ad92e2dfc6f509932086b27af8ba1a090ccc8
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767812938~acl=/*~id=50757599180475779634190293255734~hmac=adb3d81fccb92a50a07bebca28cf0dc72a496c023d07d4536f872bf2536f9230
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
