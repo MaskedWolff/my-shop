@@ -1488,12 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767784205~exp=1767870605~acl=/*~hmac=ec1b86ff554ee0c21af51fd3cbc62e659dcf540cd0b74442936b190033784eb7&xxx=%7Ccookie=__hdnea__=st=1767784205~exp=1767870605~acl=/*~hmac=ec1b86ff554ee0c21af51fd3cbc62e659dcf540cd0b74442936b190033784eb7
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png" group-title="Fancode-Cricket", Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1767835286~acl=/*~id=24083722361771934502237631970999~hmac=be3a612bd54de0735cb9e3400c68a6a1e9851b3cff03b6e49fc8fb3ee9432a78
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139256_5822_QAT-U23_UAE-U23_fc-web.jpg" group-title="Fancode-Football", Qatar U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139256_english_hls_a78ab4d7eb41061_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" group-title="Fancode-Tennis", Centre Court - Day 3 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)
-https://in-mc-fdlive.fancode.com/mumbai/139285_english_hls_b93736c6a4488_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1675,7 +1671,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767846441~acl=/*~id=85643316222715924253185966499215~hmac=29394b30d22de4c4b44c849934630893de8e9f6d0823cc5e805a4d5bb7491bc7
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698961481649_SLvsPAK26_1t20i_6jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st T20I - 7 Jan 2026 [ENG] - Pakistan Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767847050~acl=/*~id=51035188124653269354533975225940~hmac=b8fd382775f781134dbcb770d2fbdbbfef0edab55a1dc7486ae8500f2359fa07
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1767848270~acl=/*~id=42427572940986828871276465128641~hmac=36c60a6bb589323c26c8a05a8cd489ce07866a26d74469fa344c07449a685908
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
