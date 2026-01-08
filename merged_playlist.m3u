@@ -1488,8 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767870651~exp=1767957051~acl=/*~hmac=5d5b614975b4170dcfa045e576e9b08cf23399c1adb9f9fada7418e360186201&xxx=%7Ccookie=__hdnea__=st=1767870651~exp=1767957051~acl=/*~hmac=5d5b614975b4170dcfa045e576e9b08cf23399c1adb9f9fada7418e360186201
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg" group-title="Fancode-Football", Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)
-https://in-mc-fdlive.fancode.com/mumbai/139201_english_hls_2182a66a3147455_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg" group-title="Fancode-Football", Al-Nassr FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)
+https://in-mc-fdlive.fancode.com/mumbai/139202_english_hls_f49fe0a45242378_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
