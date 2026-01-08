@@ -1488,14 +1488,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1767870651~exp=1767957051~acl=/*~hmac=5d5b614975b4170dcfa045e576e9b08cf23399c1adb9f9fada7418e360186201&xxx=%7Ccookie=__hdnea__=st=1767870651~exp=1767957051~acl=/*~hmac=5d5b614975b4170dcfa045e576e9b08cf23399c1adb9f9fada7418e360186201
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg" group-title="Fancode-Cricket", Dhaka Capitals vs Sylhet Titans (Bangladesh Premier League, 2025-26)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg" group-title="Fancode-Cricket", Sylhet Titans vs Dhaka Capitals (Bangladesh Premier League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138943_english_hls_91d58682b68698_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg" group-title="Fancode-Cricket", Western Australia Women vs South Australian Scorpions (Women's National Cricket League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/133966_english_hls_bfeaaf7a1032942_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139257_5822_AUS-U23_THA-U23_fc-web.jpg" group-title="Fancode-Football", Australia U23 vs Thailand U23 (AFC U23 Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139257_english_hls_020213e63d91795_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg" group-title="Fancode-Tennis", Center Court - Day 4 vs Hong Kong (ATP 250 - Hong Kong)
-https://in-mc-fdlive.fancode.com/mumbai/139207_english_hls_98c1615b9493405_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" group-title="Fancode-Tennis", Centre Court - Day 4 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)
 https://in-mc-fdlive.fancode.com/mumbai/139286_english_hls_cde3a41cb797754_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1679,7 +1677,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1767914629~acl=/*~id=85554351791296245969087757214059~hmac=d4189c72203086b0e9ba872e87f2d773669873542c0ba00b738ef823cbf7b502
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013066/1767772964809351_UC26_QF_Belgium_vs_Czechia_7jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Belgium vs Czechia - Quarter-final - 8 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767915848~acl=/*~id=24510669011195098606786334490946~hmac=ac3900efa0f05f11404210c194f997bbc9138bc40d646e7a59600a1085029166
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767916458~acl=/*~id=09262984437597783807729398175368~hmac=e314dcae3204fb24bae334fc3567bdaadddf03d3ab7876c28d57614b67705a09
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
