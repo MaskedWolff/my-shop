@@ -1492,6 +1492,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 https://in-mc-fdlive.fancode.com/mumbai/139203_english_hls_3a37c84ef261787_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cameroon-vs-Morocco_fc-web.jpg" group-title="Fancode-Football", Cameroon vs Morocco (Africa Cup of Nations 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138388_english_hls_b50450f5227461_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131018_5427_GEF_RS_fc-Web.png" group-title="Fancode-Football", Getafe CF vs Real Sociedad (LALIGA 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/131018_english_hls_8ed270d21f40954_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139247_CASACARDS_APP.png" group-title="Fancode-Football", Cádiz vs Sporting de Gijón (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139247_english_hls_6f877cbffd3887_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1679,9 +1681,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768028308~acl=/*~id=86774347543321439151832558176947~hmac=2ab2e059eb81b76d0999018b0b07d52ff27e533d492b927e3ece967afe1e664c
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013148/176793910790478_facup26_RD3_Wrexham_vs_Nottingham_Forest_9jan_Landscape_thumb.jpg" group-title="sonyliv-Football", Wrexham vs Nottingham Forest - Round 3 - 10 Jan 2026 [ENG] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768029524~acl=/*~id=34063957327020634614747234799008~hmac=4e467cf019c6f5f207f704529d5a8d5fd11c7847d358d8766027c519bb43e890
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768030741~acl=/*~id=30137354317360064024306258095091~hmac=9a78c0dfb32adc3af9cec4c7d9a61040c3d3dffe4a33206cd493307fd473a84b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767854408912351_Bundesliga_MD16_Eintracht-Frankfurt-vs-Borussia-Dortmund_landscape_thumb.jpg" group-title="sonyliv-Football", Eintracht Frankfurt vs Borussia Dortmund - MD 16 - 10 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768029524~acl=/*~id=34063957327020634614747234799008~hmac=4e467cf019c6f5f207f704529d5a8d5fd11c7847d358d8766027c519bb43e890
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768030741~acl=/*~id=30137354317360064024306258095091~hmac=9a78c0dfb32adc3af9cec4c7d9a61040c3d3dffe4a33206cd493307fd473a84b
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
