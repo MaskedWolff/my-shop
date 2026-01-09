@@ -1492,6 +1492,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 https://in-mc-fdlive.fancode.com/mumbai/138945_english_hls_425d16059e35160_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png" group-title="Fancode-Cricket", Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1768008101~acl=/*~id=51056537071471958457024406011007~hmac=2b27243bfc13705c16c94aaee367db8b901c0f4b6a380c4bfe0ec69ec7f91c62
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139259_5822_KYG-U23_VIE-U23_fc-web.jpg" group-title="Fancode-Football", Kyrgyz Republic U23 vs Vietnam U23 (AFC U23 Asian Cup, 2026)
+https://in-mc-fdlive.fancode.com/mumbai/139259_english_hls_45f2ac32af85254_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png" group-title="Fancode-Tennis", Centre Court - Day 5 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)
 https://in-mc-fdlive.fancode.com/mumbai/139287_english_hls_8139d864e751453_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1679,7 +1681,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768008240~acl=/*~id=67760419743043566889077569343698~hmac=6a896fa434f63f836e01eaa8026f95f2c404aa119748f69b36a373724a7bf649
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698942088649_SLvsPAK26_2t20i_6jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd T20I - 9 Jan 2026 [ENG] - Pakistan Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768009460~acl=/*~id=73542865130174673533725590981259~hmac=00b1939f42ba9d19dff38b13c20330689f73a127eb2f9fe51db55c103d2308e2
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768010678~acl=/*~id=89980669111923321533470915525926~hmac=d3f757173482cdf5d3c6cd507eb496fc89e1cac84feeea59f68e368d12d9a2e0
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
