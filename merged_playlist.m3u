@@ -1494,6 +1494,8 @@ https://in-mc-fdlive.fancode.com/mumbai/138938_english_hls_f09af0d11f77311_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/138824_english_hls_97d46b4ea769591_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" group-title="Fancode-Tennis", Pat Rafter Arena - Day 8 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)
 https://in-mc-fdlive.fancode.com/mumbai/139197_english_hls_245973bb4850380_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg" group-title="Fancode-Tennis", Center Court - Day 7 vs Hong Kong (ATP 250 - Hong Kong)
+https://in-mc-fdlive.fancode.com/mumbai/139210_english_hls_ff251d6acd11194_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1679,7 +1681,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768157575~acl=/*~id=88072501176624396096835203783626~hmac=bec5ce22c05db9d7105864461a7bb5bf9129156b03b41d4c2c1aba537cecf6fa
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013204/1768038113639649_UC26_Final_Switzerland-vs-Poland_10jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Switzerland vs Poland - Final - 11 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768159398~acl=/*~id=15278303989846388976731390634210~hmac=7a41ee1c7b2bf7c591a1e9823c771f8ed50b47f9ef22aa3ae349a39eb5971fa3
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768160614~acl=/*~id=37283065388069146715276049074125~hmac=7f3e7c2d56b2d57d67212d18949747defa276f8154db19db2f730953fe3b6e7b
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
