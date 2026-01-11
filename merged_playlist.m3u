@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768129670~exp=1768216070~acl=/*~hmac=0a560d5579e1e0cf7eedc88718e61728e7256f11b9f0e7a22f6c37dab2a4939d&xxx=%7Ccookie=__hdnea__=st=1768129670~exp=1768216070~acl=/*~hmac=0a560d5579e1e0cf7eedc88718e61728e7256f11b9f0e7a22f6c37dab2a4939d
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png" group-title="Fancode-Cricket", Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1768180736~acl=/*~id=17488846285144300947196624871338~hmac=046f3525d1968c1cffea16ec7e3876091a5078834f7b7eb6d69ed40c8dea0612
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SuperCopa-ELCLaSICO_fc-web.jpg" group-title="Fancode-Football", FC Barcelona vs Real Madrid (SuperCopa 2026)
 https://in-mc-fdlive.fancode.com/mumbai/138959_english_hls_7f18fa356218568_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1676,16 +1674,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768199401~acl=/*~id=8c9b7a336531f542bbdbf9c094666e9b-1768156200107~hmac=782e2acd4fffdf511a64f79fba0f52617130b1cf6ae5ec990b6360611a46cf6c
 # --- external_sonyliv ---
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [ENG] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768199673~acl=/*~id=72006314993785685483650518984077~hmac=d917654077fe120ca1f7cc94911dd6712e6c89b4253a0169c22c85d3338466fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [HIN] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768199673~acl=/*~id=72006314993785685483650518984077~hmac=d917654077fe120ca1f7cc94911dd6712e6c89b4253a0169c22c85d3338466fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [TAM] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768199673~acl=/*~id=72006314993785685483650518984077~hmac=d917654077fe120ca1f7cc94911dd6712e6c89b4253a0169c22c85d3338466fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013192/1767983539075263_FA_CUP_26_RD3_Man-United-vs-Brighton_9jan_eng_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Manchester United vs Brighton & Hove Albion - Round 3 - 11 Jan 2026 [TEL] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768199673~acl=/*~id=72006314993785685483650518984077~hmac=d917654077fe120ca1f7cc94911dd6712e6c89b4253a0169c22c85d3338466fc
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698953696649_SLvsPAK26_3t20i_6jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd T20I - 11 Jan 2026 [ENG] - Pakistan Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768199673~acl=/*~id=72006314993785685483650518984077~hmac=d917654077fe120ca1f7cc94911dd6712e6c89b4253a0169c22c85d3338466fc
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
