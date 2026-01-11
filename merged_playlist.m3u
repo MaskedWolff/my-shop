@@ -1488,6 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768169341~exp=1768255741~acl=/*~hmac=1d8da71e40826906f7febabdfc502fbe06524ee9614a2561477f91eed4c4fb90&xxx=%7Ccookie=__hdnea__=st=1768169341~exp=1768255741~acl=/*~hmac=1d8da71e40826906f7febabdfc502fbe06524ee9614a2561477f91eed4c4fb90
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138779_5801_OS-W_AH-W_fc-web_1766596522276.jpg" group-title="Fancode-Cricket", Auckland Hearts vs Otago Sparks (Women's Super Smash, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138779_english_hls_77ed9fc52439905_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" group-title="Fancode-Tennis", ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)
 https://in-mc-fdlive.fancode.com/mumbai/139536_english_hls_31cccb3ff817193_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1674,6 +1676,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768199401~acl=/*~id=8c9b7a336531f542bbdbf9c094666e9b-1768156200107~hmac=782e2acd4fffdf511a64f79fba0f52617130b1cf6ae5ec990b6360611a46cf6c
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012853/1767249223977898_SuperSmash2526_womens_Otago-Sparks-vs-Auckland-Hearts_1jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Otago Sparks vs Auckland Hearts - 12 Jan 2026 [ENG] - Super Smash 2025/26 Women's
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768217291~acl=/*~id=30686443551171728302598790219836~hmac=e5e29b32e27992f4bd71586d9808a1feef149cbddc4bb035ded5085bdcfb2430
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
