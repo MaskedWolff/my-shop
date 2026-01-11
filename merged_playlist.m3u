@@ -1494,12 +1494,12 @@ https://in-mc-fdlive.fancode.com/mumbai/138939_english_hls_6f7a40840186485_1ta-d
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1768180736~acl=/*~id=17488846285144300947196624871338~hmac=046f3525d1968c1cffea16ec7e3876091a5078834f7b7eb6d69ed40c8dea0612
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131016_5427_RVL_MRC_fc-Web_1767595288796.png" group-title="Fancode-Football", Rayo Vallecano vs RCD Mallorca (LALIGA 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/131016_english_hls_dba317f43c54625_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png" group-title="Fancode-Football", Liverpool Women vs London City Lionesses (Women's Super League 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/139328_english_hls_d4dd6389ed9929_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139250_CASACARDS_APP.png" group-title="Fancode-Football", Leganés vs Real Valladolid (LALIGA Hypermotion 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139250_english_hls_d566f65c8e38359_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139266_5822_THA-U23_IRQ-U23_fc-web.jpg" group-title="Fancode-Football", Thailand U23 vs Iraq U23 (AFC U23 Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139266_english_hls_73633f62bb88096_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png" group-title="Fancode-Football", Liverpool Women vs London City Lionesses (Women's Super League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139328_english_hls_d4dd6389ed9929_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
@@ -1685,13 +1685,13 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768183179~acl=/*~id=36073755866122120807594626445131~hmac=5ee274aee4954d1d508b18dc8369cd004d90d4bf3d79bebb06615f350e1d6cd8
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767950129267145_FA_CUP_26_RD3_Portsmouth-vs-Arsenal_9jan_Landscape_thumb.jpg" group-title="sonyliv-Football", Portsmouth vs Arsenal - Round 3 - 11 Jan 2026 [ENG] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768184399~acl=/*~id=14102055001616120039677315002053~hmac=6a02d58d1e6e3f0cb7e73ab4b49d22bbc9f778f17bbc9be02b105267ed428a92
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768185010~acl=/*~id=67140177552250695443573309872979~hmac=7d55e1cadfdfedf602eddd48c2cea5bae5c5e658011a93375cbd4bb340df974c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013032/1767698953696649_SLvsPAK26_3t20i_6jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd T20I - 11 Jan 2026 [ENG] - Pakistan Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768184399~acl=/*~id=14102055001616120039677315002053~hmac=6a02d58d1e6e3f0cb7e73ab4b49d22bbc9f778f17bbc9be02b105267ed428a92
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1768185010~acl=/*~id=67140177552250695443573309872979~hmac=7d55e1cadfdfedf602eddd48c2cea5bae5c5e658011a93375cbd4bb340df974c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767951041188145_FA_CUP_26_RD3_West-Ham-Utd-vs-Queens-Park-Rangers_9jan_Landscape_thumb.jpg" group-title="sonyliv-Football", West Ham United vs Queens Park Rangers - Round 3 - 11 Jan 2026 [ENG] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768184399~acl=/*~id=14102055001616120039677315002053~hmac=6a02d58d1e6e3f0cb7e73ab4b49d22bbc9f778f17bbc9be02b105267ed428a92
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768185010~acl=/*~id=67140177552250695443573309872979~hmac=7d55e1cadfdfedf602eddd48c2cea5bae5c5e658011a93375cbd4bb340df974c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013116/1767865726779351_Bundesliga_MD16_Borussia-Mgladbach-vs-FC-Augsburg_landscape_thumb.jpg" group-title="sonyliv-Football", Borussia M'gladbach vs FC Augsburg - MD 16 - 11 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768184399~acl=/*~id=14102055001616120039677315002053~hmac=6a02d58d1e6e3f0cb7e73ab4b49d22bbc9f778f17bbc9be02b105267ed428a92
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768185010~acl=/*~id=67140177552250695443573309872979~hmac=7d55e1cadfdfedf602eddd48c2cea5bae5c5e658011a93375cbd4bb340df974c
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
