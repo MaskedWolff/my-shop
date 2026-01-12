@@ -1675,7 +1675,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013167/1767951554437145_FA_CUP_26_RD3_Liverpool-vs-Barnsley_9jan_Landscape_thumb.jpg" group-title="sonyliv-Football", Liverpool vs Barnsley - Round 3 - 13 Jan 2026 [ENG] - The Emirates FA Cup 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768293901~acl=/*~id=81854561417184475926808296101912~hmac=3066e66c250a0b997c4bee7863881323702d8ae6397f9ea435ba2e52c9a26236
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768296337~acl=/*~id=25726548001883114659317110817738~hmac=5aa61aff639504120ad2d16b19afb7ca148010e2b12661f7c69e02f386fe396d
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
