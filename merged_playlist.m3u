@@ -1488,7 +1488,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768216258~exp=1768302658~acl=/*~hmac=6e4894e902f2c063c18c74647837e25fb825324fca8530bb4ac017e37678eeaa&xxx=%7Ccookie=__hdnea__=st=1768216258~exp=1768302658~acl=/*~hmac=6e4894e902f2c063c18c74647837e25fb825324fca8530bb4ac017e37678eeaa
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138933_5808_DBR_DC_fc-web_1766733054150.jpg" group-title="Fancode-Cricket", Rajshahi Warriors vs Dhaka Capitals (Bangladesh Premier League, 2025-26)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138933_5808_DBR_DC_fc-web_1766733054150.jpg" group-title="Fancode-Cricket", Dhaka Capitals vs Rajshahi Warriors (Bangladesh Premier League, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/138933_english_hls_4a3b9a1b6c39851_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg" group-title="Fancode-Cricket", Oman Development Team vs IAS Invincibles (Oman Super League T20, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139576_english_hls_97f490d78e32434_1ta-di_h264/index.m3u8
