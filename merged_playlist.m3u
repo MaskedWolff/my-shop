@@ -1488,8 +1488,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768255778~exp=1768342178~acl=/*~hmac=968726b6c776098ce954efa1120eb6959d372641453563fbedf362e53ed27acc&xxx=%7Ccookie=__hdnea__=st=1768255778~exp=1768342178~acl=/*~hmac=968726b6c776098ce954efa1120eb6959d372641453563fbedf362e53ed27acc
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131019_5427_GIR_OSN_fc-Web_1768202652350.png" group-title="Fancode-Football", Sevilla FC vs RC Celta (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/131013_english_hls_c86fac976263808_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" group-title="Fancode-Tennis", ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)
+https://in-mc-fdlive.fancode.com/s3/53d0a95d-be66-44b8-b9ef-71a778a8b56e/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
