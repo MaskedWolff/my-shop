@@ -1680,6 +1680,8 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768134950567648_bliga26_MD17_VfB_Stuttgart_vs_Eintracht_Frankfurt_11jan_landscape_thumb.jpg" group-title="sonyliv-Football", VfB Stuttgart vs Eintracht Frankfurt - MD 17 - 13 Jan 2026 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768366864~acl=/*~id=10559679422212563324154390681794~hmac=73c80bea9abd7eedd6589b1cf980add0dd7a0d7f175802bc1b89250c02dd965c
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
