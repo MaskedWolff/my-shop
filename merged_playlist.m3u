@@ -1680,8 +1680,6 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013308/1768241336769463_AO26_Zverev_vs_Musetti_12jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Zverev vs Musetti - 13 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768339529~acl=/*~id=16755663222267203899551855460289~hmac=ab705c90e2ada1b0ce502e159da98c930918344a99bd051b0788cd8870df7fe8
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
