@@ -1488,12 +1488,14 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768342248~exp=1768428648~acl=/*~hmac=67d02481d3dc9f33af29c9881ad07f68e3c1795550cf297b7281921ff88817a2&xxx=%7Ccookie=__hdnea__=st=1768342248~exp=1768428648~acl=/*~hmac=67d02481d3dc9f33af29c9881ad07f68e3c1795550cf297b7281921ff88817a2
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-Web_1768310393642.jpg" group-title="Fancode-Football", Cultural Leonesa vs Athletic Club (Copa del Rey, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139670_english_hls_2b7e7ceeae50375_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139669_5806_RS_OSN_FC-Web.jpg" group-title="Fancode-Football", Real Sociedad vs CA Osasuna (Copa del Rey, 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139669_english_hls_ccaf31104e46425_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" group-title="Fancode-Cricket", Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)
+https://in-mc-fdlive.fancode.com/mumbai/139747_english_hls_96592331e222434_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" group-title="Fancode-Tennis", ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)
 https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139670_5806_CL_ATH_FC-Web_1768310393642.jpg" group-title="Fancode-Football", Cultural Leonesa vs Athletic Club (Copa del Rey, 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/139670_english_hls_2b7e7ceeae50375_1ta-di_h264/index.m3u8
 # --- external_willow ---
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
