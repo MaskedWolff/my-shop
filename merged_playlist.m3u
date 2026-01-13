@@ -1677,11 +1677,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768135144547648_bliga26_MD17_Dortmund_vs_Werder_Bremen_11jan_landscape_thumb.jpg" group-title="sonyliv-Football", Borussia Dortmund vs Werder Bremen - MD 17 - 14 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768134950567648_bliga26_MD17_VfB_Stuttgart_vs_Eintracht_Frankfurt_11jan_landscape_thumb.jpg" group-title="sonyliv-Football", VfB Stuttgart vs Eintracht Frankfurt - MD 17 - 13 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768376613~acl=/*~id=66111972757926441198073963816107~hmac=f83978319d1328b86b1f9773f40d9bf9104d50cb74e271413b7036f1e5686705
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136509863648_bliga26_MD17_Mainz_vs_Heidenheim_11jan_landscape_thumb.jpg" group-title="sonyliv-Football", Mainz vs Heidenheim - MD 17 - 14 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768374171~acl=/*~id=08555792742636773160059547544612~hmac=ac680059e0c503afbaf20e98ad3b205a7148e71b92a431d65b175454bcd93403
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768376613~acl=/*~id=66111972757926441198073963816107~hmac=f83978319d1328b86b1f9773f40d9bf9104d50cb74e271413b7036f1e5686705
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
