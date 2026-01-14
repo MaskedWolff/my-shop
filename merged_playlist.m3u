@@ -1488,8 +1488,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768351918~exp=1768438318~acl=/*~hmac=c10195a74fb997ee9b17ea87e9da052bd294043fb44ec2b7aa759738abb0903e&xxx=%7Ccookie=__hdnea__=st=1768351918~exp=1768438318~acl=/*~hmac=c10195a74fb997ee9b17ea87e9da052bd294043fb44ec2b7aa759738abb0903e
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg" group-title="Fancode-Cricket", Swami Vivekanand vs Rizvi (Giles Shield 2026)
-https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f95075_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" group-title="Fancode-Tennis", ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)
 https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1677,7 +1675,7 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013335/1768308166694123_AO26_Opening_week_1_Point_Slam_13jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", 1 Point Slam - 14 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768429925~acl=/*~id=96937503934631787623083762113736~hmac=c11bb73db0f8a4db5a6a932c6bb5cb7d8c5b5f0ac50bde8d2ec14cd89b1a8212
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768431143~acl=/*~id=54845066147571871653759830345817~hmac=fba7aaf063f75acbc7330cb6d30e57b6a7e7f787c7c40bf71861615a9bd5354c
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
