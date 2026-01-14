@@ -1683,9 +1683,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768305435222693_AO26_Opening_week_Svitolina_vs_Anisimova_13jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Svitolina vs Anisimova - 14 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768413817~acl=/*~id=32767897800392936740895613518787~hmac=561c2bf7fd1e028708ebbc56625fa0fa08ee91562fed73664a3e0d42e2bf5a5b
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768415036~acl=/*~id=81364860786197491131213681591538~hmac=5b1ea482856d075f49ba730bfad03613f9f917e15265cfa969b23f9b037eda8b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012915/1767421300004881_SuperSmash2526_womens_Auckland-Hearts-vs-Canterbury-Magicians_1jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Auckland Hearts vs Canterbury Magicians - 14 Jan 2026 [ENG] - Super Smash 2025/26 Women's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768413817~acl=/*~id=32767897800392936740895613518787~hmac=561c2bf7fd1e028708ebbc56625fa0fa08ee91562fed73664a3e0d42e2bf5a5b
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768415036~acl=/*~id=81364860786197491131213681591538~hmac=5b1ea482856d075f49ba730bfad03613f9f917e15265cfa969b23f9b037eda8b
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
