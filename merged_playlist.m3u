@@ -1488,10 +1488,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768428655~exp=1768515055~acl=/*~hmac=8bd59a12eefd1ccb0b2ed027727411b55ba8d1dc63f4453ffef53b59ce4a900f&xxx=%7Ccookie=__hdnea__=st=1768428655~exp=1768515055~acl=/*~hmac=8bd59a12eefd1ccb0b2ed027727411b55ba8d1dc63f4453ffef53b59ce4a900f
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg" group-title="Fancode-Football", Nigeria vs Morocco (Africa Cup of Nations 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" group-title="Fancode-Tennis", ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)
 https://in-mc-fdlive.fancode.com/mumbai/139539_english_hls_5b30ee1e3a71739_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg" group-title="Fancode-Football", Nigeria vs Morocco (Africa Cup of Nations 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
@@ -1672,6 +1672,8 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1768470
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768470077~acl=/*~id=76203465464963541535828000948750~hmac=aa1775ed4c1c97f812f1b09fed86ee250e2d3960b3e4bcfa98f7bf1e7e730ea3
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012915/1767422731664881_SuperSmash2526_womens_Otago-Sparks-vs-Wellington-Blaze_1jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Otago Sparks vs Wellington Blaze - 15 Jan 2026 [ENG] - Super Smash 2025/26 Women's
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768475541~acl=/*~id=10151404775474400415075202076908~hmac=db2d6117b3710566c9a5e02e5ddfcf63829f676f3ae210947e95942feb2ee08f
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
