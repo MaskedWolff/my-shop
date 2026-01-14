@@ -22,9 +22,8 @@ jobs:
           echo "⬇️ Downloading external playlists..."
           curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u" -o external_jstar.m3u || echo "⚠️ JStar playlist failed"
           curl -fsSL "https://raw.githubusercontent.com/drmlive/fancode-live-events/main/fancode.m3u" -o external_fancode.m3u || echo "⚠️ Fancode playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u" -o external_willow.m3u || echo "⚠️ Willow playlist failed"
           curl -fsSL "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u" -o external_z5.m3u || echo "⚠️ Z5 playlist failed"
-          curl -fsSL "https://raw.githubusercontent.com/himanshu-temp/m3u/refs/heads/main/sony.m3u" -o external_sony.m3u || echo "⚠️ Sony playlist failed"
+          curl -fsSL "https://raw.githubusercontent.com/hasanhabibmottakin/Sony-Liv-Channels/refs/heads/main/playlist.m3u" -o external_sony.m3u || echo "⚠️ Sony playlist failed"
           curl -fsSL "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u" -o external_sonyliv.m3u || echo "⚠️ Sonyliv playlist failed"
 
       - name: Download Your Playlist
