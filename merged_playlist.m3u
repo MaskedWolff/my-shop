@@ -1632,7 +1632,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1768481195~acl=%2f*~id=c40b8289-a129-4767-a97a-781f2d16750d~data=hdntl~hmac=34f5240ebf1a939e900875d81f969ba8fd81750a6396bff57f1f36c6677985e7
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013251/1768136708974648_bliga26_MD17_VfL_Wolfsburg_vs_St_Pauli_11jan_landscape_thumb.jpg" group-title="sonyliv-Football", VfL Wolfsburg vs St. Pauli - MD 17 - 14 Jan 2026 [ENG] - Bundesliga 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768455461~acl=/*~id=83421219534049483076336516331617~hmac=00bf327f3a0309c406651d58552107238a26f1457fed9e1d7b377e6a1d1fc2d0
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768456071~acl=/*~id=60186068578050280296569591680570~hmac=3a095bac8333dbb3ce329067b258437500b35c0e69ae42d36c72c2a4402fd659
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
