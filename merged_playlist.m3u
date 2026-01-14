@@ -1496,8 +1496,6 @@ https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b973182_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f95075_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg" group-title="Fancode-Tennis", ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)
 https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png" group-title="Fancode-Tennis", Show Court 1 - Day 3 vs Adelaide (ATP 250 - Adelaide International)
-https://in-mc-fdlive.fancode.com/mumbai/139565_english_hls_a0240f661f82860_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png" group-title="Fancode-Tennis", Centre Court - Day 3 vs Adelaide (ATP 250 - Adelaide International)
 https://in-mc-fdlive.fancode.com/mumbai/139564_english_hls_2b2cc4717a48829_1ta-di_h264/index.m3u8
 # --- external_willow ---
@@ -1684,8 +1682,10 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768305435222693_AO26_Opening_week_Svitolina_vs_Anisimova_13jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Svitolina vs Anisimova - 14 Jan 2026 [ENG] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768412599~acl=/*~id=11851507480142704435182870481767~hmac=312520df249ecea943d81993fea9093c12e8116c8737b00fe40b002dc8afb16a
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012915/1767421300004881_SuperSmash2526_womens_Auckland-Hearts-vs-Canterbury-Magicians_1jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Auckland Hearts vs Canterbury Magicians - 14 Jan 2026 [ENG] - Super Smash 2025/26 Women's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768410772~acl=/*~id=03891063664622596892865333658147~hmac=f759aca8ca7b8fa3dba9e577e76bc539d601a6a8ff3022f25afb09cc267edf34
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768412599~acl=/*~id=11851507480142704435182870481767~hmac=312520df249ecea943d81993fea9093c12e8116c8737b00fe40b002dc8afb16a
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
