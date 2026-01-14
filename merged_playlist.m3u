@@ -1683,9 +1683,9 @@ https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1768242601~acl=/*~id=374a19cab600f041c94afa74d071075a-1768199400189~hmac=a0b42abbb5e705d960e145ae491d6faf2016e147d03f620dbab9e4794dce199a
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013332/1768305435222693_AO26_Opening_week_Svitolina_vs_Anisimova_13jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Svitolina vs Anisimova - 14 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768412599~acl=/*~id=11851507480142704435182870481767~hmac=312520df249ecea943d81993fea9093c12e8116c8737b00fe40b002dc8afb16a
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768413817~acl=/*~id=32767897800392936740895613518787~hmac=561c2bf7fd1e028708ebbc56625fa0fa08ee91562fed73664a3e0d42e2bf5a5b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012915/1767421300004881_SuperSmash2526_womens_Auckland-Hearts-vs-Canterbury-Magicians_1jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Auckland Hearts vs Canterbury Magicians - 14 Jan 2026 [ENG] - Super Smash 2025/26 Women's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768412599~acl=/*~id=11851507480142704435182870481767~hmac=312520df249ecea943d81993fea9093c12e8116c8737b00fe40b002dc8afb16a
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768413817~acl=/*~id=32767897800392936740895613518787~hmac=561c2bf7fd1e028708ebbc56625fa0fa08ee91562fed73664a3e0d42e2bf5a5b
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
@@ -1784,3 +1784,82 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://i.ibb.co/17rc425/voa.png", VOA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+#EXTINF:-1 tvg-id="watcho-and-pictures" tvg-name="&PICTURES" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", &PICTURES
+#EXTINF:-1 tvg-id="watcho-and-tv" tvg-name="&TV" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", &TV
+#EXTINF:-1 tvg-id="watcho-24-ghanta" tvg-name="24 GHANTA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ivdstd.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", 24 GHANTA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/24ghanta2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-discovery-channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", DISCOVERY CHANNEL
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-discovery-kids" tvg-name="DISCOVERY KIDS" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/uzbawq.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", DISCOVERY KIDS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-discovery-science" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", DISCOVERY SCIENCE
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-discovery-turbo" tvg-name="DISCOVERY TURBO" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fdkzmc.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", DISCOVERY TURBO
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-investigation-discovery" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/jqwcyr.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", INVESTIGATION DISCOVERY
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-mtv-beats" tvg-name="MTV BEATS" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lrcznw.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", MTV BEATS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-ndtv-india" tvg-name="NDTV INDIA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", NDTV INDIA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-tlc" tvg-name="TLC" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/pjpqmt.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", TLC
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-anmol" tvg-name="ZEE ANMOL" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odeyvg.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE ANMOL
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-anmol-cinema" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ysgmdh.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE ANMOL CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-bangla" tvg-name="ZEE BANGLA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ralgkp.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE BANGLA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-bangla-cinema" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE BANGLA CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-hindustan" tvg-name="ZEE BHARAT" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/jvpitr.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE BHARAT
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-bihar-jharkhand" tvg-name="ZEE BIHAR JHARKHAND" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/phhexz.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE BIHAR JHARKHAND
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-bollywood.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="watcho-zee-business" tvg-name="ZEE BUSINESS" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yyggwd.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE BUSINESS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-cinema" tvg-name="ZEE CINEMA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE CINEMA
+https://d1g8wgjurz8via.cloudfront.net//bpk-tv//Zeecinema/default//manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-cinema-hd" tvg-name="ZEE CINEMA HD" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/eqrpdx.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE CINEMA HD
+https://d1g8wgjurz8via.cloudfront.net//bpk-tv//Zeecinemahd/default//manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-cinemalu" tvg-name="ZEE CINEMALU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE CINEMALU
+https://d1g8wgjurz8via.cloudfront.net//bpk-tv//Zeecinemalu/default//manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-kannada" tvg-name="ZEE KANNADA" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bhqvrx.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE KANNADA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-marathi" tvg-name="ZEE MARATHI" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iojqpq.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE MARATHI
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-sarthak" tvg-name="ZEE SARTHAK" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE SARTHAK
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-talkies" tvg-name="ZEE TALKIES" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yhleum.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE TALKIES
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-telugu" tvg-name="ZEE TELUGU" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpzyfx.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE TELUGU
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zee-tv" tvg-name="ZEE TV" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZEE TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zing" tvg-name="ZING" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zing.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZING
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#EXTINF:-1 tvg-id="watcho-zoom" tvg-name="ZOOM" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", ZOOM
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+#EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO",Fakt Marathi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Faktmarathi2/default/main.mpd
+#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO",& TV ᴴᴰ
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+#EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", & Pictures ᴴᴰ
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+#EXTINF:-1 tvg-id="ts677" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", Shorts Tv Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+#EXTINF:-1 tvg-id="ts943" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO", Korean Drama Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO",9x Jhakaas
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjhakaas2/default/main.mpd
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO",9X Jalwa
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xjalwa2/default/main.mpd
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO",9x Tashan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xtashan2/default/main.mpd
+#EXTINF:-1 tvg-id="ts139" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO",9XM
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9xm2/default/main.mpd
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-logo="https://play-lh.googleusercontent.com/x9RWkBOe44DmEidEj5qWRs5H2gOCgRycQenIlcr0kO098rTVn1Nl-IM3JFB_vfuTRg" group-title="WATCHO",Music India
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
