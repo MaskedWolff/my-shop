@@ -1670,6 +1670,10 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1768513
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768513785~acl=/*~id=69915961315510124768565529092308~hmac=ab664a302fa3d3b88b6905348d7d15c8cebe135a8a219af2359b908573614bed
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013387/1768403052642345_PWL_26_Punjab-Royals-vs-UP-Dominators_14jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Punjab Royals vs UP Dominators - 15 Jan 2026 [ENG] - Pro Wrestling League 2026
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768528927~acl=/*~id=42052066103444610040536286870584~hmac=06f0723ec8b4394c5259598a867cb1f821a6d97045477e3c2b6e389804bdb1c1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013387/1768403052642345_PWL_26_Punjab-Royals-vs-UP-Dominators_14jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Punjab Royals vs UP Dominators - 15 Jan 2026 [HIN] - Pro Wrestling League 2026
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768528927~acl=/*~id=42052066103444610040536286870584~hmac=06f0723ec8b4394c5259598a867cb1f821a6d97045477e3c2b6e389804bdb1c1
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
