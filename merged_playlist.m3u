@@ -1490,8 +1490,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 # --- external_fancode ---
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg" group-title="Fancode-Golf", Featured Group - Day 2 vs Hawaii (Sony Open in Hawaii 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139778_english_hls_35c057050432718_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131029_5427_ESL_GIR_fc-Web_1768307626387.png" group-title="Fancode-Football", RCD Espanyol vs Girona FC (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/131029_english_hls_f292527a9822857_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1768653909~acl=%2f*~id=1d6f9704-967b-4a79-9149-47622b42557c~data=hdntl~hmac=0d3d726e7170f96c2c95328d48f75d057d9d3d9bc56c61cc0c94644cb89fc412
