@@ -1488,6 +1488,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768610836~exp=1768697236~acl=/*~hmac=0813615ce7bf37fbcb3d0fd6a45c1edbb5945610dad9db3de6713af6d923e0df&xxx=%7Ccookie=__hdnea__=st=1768610836~exp=1768697236~acl=/*~hmac=0813615ce7bf37fbcb3d0fd6a45c1edbb5945610dad9db3de6713af6d923e0df
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png" group-title="Fancode-Tennis", Centre Court - Day 6 vs Adelaide (ATP 250 - Adelaide International)
+https://in-mc-fdlive.fancode.com/mumbai/139569_english_hls_a5ec19a76162560_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1768700464~acl=%2f*~id=5c6e7936-028f-4641-a271-8e77650dcc79~data=hdntl~hmac=eac9413a2059ef2d3667efb4b9d0df553c9dce07edcfbfdbebd1e4f97eb24e86
