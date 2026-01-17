@@ -1674,8 +1674,6 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1768642
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768642524~acl=/*~id=10529036209452194968511056655797~hmac=de3307bd6edf67f6cdbe4f19dcf22d6122dbab22ebc3f8f5c7f3df105544365a
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013505/176859211682011_AO26_mix_double_showdown_rev_live_landscape_thumb.jpg" group-title="sonyliv-Tennis", Mixed Doubles Showdown - 17 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768658895~acl=/*~id=99843791425831576126361195488951~hmac=34170bec2096079a4b7630c6f064a1e3e57779c2c93dc6b9b1d283c386a75b50
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
