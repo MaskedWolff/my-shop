@@ -1494,8 +1494,6 @@ https://in-mc-fdlive.fancode.com/mumbai/138752_english_hls_503be3c87843023_1ta-d
 https://in-mc-fdlive.fancode.com/mumbai/139219_english_hls_124a12be2468131_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_Thailand-Women-vs-Nepal-Women_1768652427014.png" group-title="Fancode-Cricket", Nepal Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139218_english_hls_15dd1c037997901_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139387_CASACARDS_APP.png" group-title="Fancode-Football", Central Coast Mariners vs Macarthur (A League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139923_english_hls_27bc2c71f992783_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?
@@ -1676,16 +1674,16 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1768754
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768754816~acl=/*~id=34304870534720133001856729344734~hmac=6cf0688a82167457f8f7783e3c1424e18fda847e2e9fe8294966be9a3123530f
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Zverev vs Diallo - Round 1 - 18 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768755425~acl=/*~id=39272000441748479884585945436228~hmac=1591848e2d92d3068bb2443f1e81c7274ab6e22b9d2e75cad0a09dee0f3a6c0c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Zverev vs Diallo - Round 1 - 18 Jan 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768755425~acl=/*~id=39272000441748479884585945436228~hmac=1591848e2d92d3068bb2443f1e81c7274ab6e22b9d2e75cad0a09dee0f3a6c0c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Zverev vs Diallo - Round 1 - 18 Jan 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768755425~acl=/*~id=39272000441748479884585945436228~hmac=1591848e2d92d3068bb2443f1e81c7274ab6e22b9d2e75cad0a09dee0f3a6c0c
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Zverev vs Diallo - Round 1 - 18 Jan 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768755425~acl=/*~id=39272000441748479884585945436228~hmac=1591848e2d92d3068bb2443f1e81c7274ab6e22b9d2e75cad0a09dee0f3a6c0c
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Stream 1 - 18 Jan 2026 [ENG] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768757251~acl=/*~id=92162319932967256858295421827092~hmac=45cfd856f454f58d5af90207dff94de681f3ca865b8e7d01b2bc9ce4102ce321
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Stream 1 - 18 Jan 2026 [HIN] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768757251~acl=/*~id=92162319932967256858295421827092~hmac=45cfd856f454f58d5af90207dff94de681f3ca865b8e7d01b2bc9ce4102ce321
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Stream 1 - 18 Jan 2026 [TAM] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768757251~acl=/*~id=92162319932967256858295421827092~hmac=45cfd856f454f58d5af90207dff94de681f3ca865b8e7d01b2bc9ce4102ce321
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013549/1768665945368685_AO2026_Landscape_Thumb_Zverev_v_Diallo_sp.jpg" group-title="sonyliv-Tennis", Stream 1 - 18 Jan 2026 [TEL] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768757251~acl=/*~id=92162319932967256858295421827092~hmac=45cfd856f454f58d5af90207dff94de681f3ca865b8e7d01b2bc9ce4102ce321
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012935/1767438730675690_SuperSmash2526_mens_Otago-Volts-vs-Northern-Brave_1jan_landscape_thumb_re1.jpg" group-title="sonyliv-Cricket", Otago Volts vs Northern Brave - 18 Jan 2026 [ENG] - Super Smash 2025/26 Men's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768755425~acl=/*~id=39272000441748479884585945436228~hmac=1591848e2d92d3068bb2443f1e81c7274ab6e22b9d2e75cad0a09dee0f3a6c0c
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768757251~acl=/*~id=92162319932967256858295421827092~hmac=45cfd856f454f58d5af90207dff94de681f3ca865b8e7d01b2bc9ce4102ce321
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
