@@ -1488,6 +1488,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768821156~exp=1768907556~acl=/*~hmac=671f587bbd77d22c5aeac50482205002383db0bd1bbe2bf07a5e68016789b061&xxx=%7Ccookie=__hdnea__=st=1768821156~exp=1768907556~acl=/*~hmac=671f587bbd77d22c5aeac50482205002383db0bd1bbe2bf07a5e68016789b061
 # --- external_fancode ---
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg" group-title="Fancode-Cricket", Afghanistan vs West Indies (Afghanistan vs West Indies 2026)
+https://in-mc-fdlive.fancode.com/mumbai/139298_english_hls_35934e5dee5541_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" group-title="Fancode-Cricket", Leeward Islands Women vs Barbados Women (CWI T20 Blaze 2026)
+https://in-mc-fdlive.fancode.com/mumbai/139754_english_hls_386154a20a70833_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1768913435~acl=%2f*~id=faa2c79a-fa51-41b5-ba1d-df2157792665~data=hdntl~hmac=ae5e31f962f05c13ae679ebdb41b435c97eb8f774763ca77c4ce474edbfaf716
@@ -1668,14 +1672,6 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1768873
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768873884~acl=/*~id=73208738880368049082026061432664~hmac=ed7d8ccfda70965714885991c0c1f82db5843a288354dd4dae0b2cfb1e7149f2
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013626/1768726800000773_AO2026_Landscape_Thumb_Martinez_vs_Djokovic_SP.jpg" group-title="sonyliv-Tennis", Martinez vs Djokovic - Round 1 - 19 Jan 2026	 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768870239~acl=/*~id=26032325098200480559953324118738~hmac=0394d8c86500b7afc6843187e4186f675d43845ae4a3f70ad4f3f2a72f38fa11
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013626/1768726800000773_AO2026_Landscape_Thumb_Martinez_vs_Djokovic_SP.jpg" group-title="sonyliv-Tennis", Martinez vs Djokovic - Round 1 - 19 Jan 2026	 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768870239~acl=/*~id=26032325098200480559953324118738~hmac=0394d8c86500b7afc6843187e4186f675d43845ae4a3f70ad4f3f2a72f38fa11
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013626/1768726800000773_AO2026_Landscape_Thumb_Martinez_vs_Djokovic_SP.jpg" group-title="sonyliv-Tennis", Martinez vs Djokovic - Round 1 - 19 Jan 2026	 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768870239~acl=/*~id=26032325098200480559953324118738~hmac=0394d8c86500b7afc6843187e4186f675d43845ae4a3f70ad4f3f2a72f38fa11
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013626/1768726800000773_AO2026_Landscape_Thumb_Martinez_vs_Djokovic_SP.jpg" group-title="sonyliv-Tennis", Martinez vs Djokovic - Round 1 - 19 Jan 2026	 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768870239~acl=/*~id=26032325098200480559953324118738~hmac=0394d8c86500b7afc6843187e4186f675d43845ae4a3f70ad4f3f2a72f38fa11
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
