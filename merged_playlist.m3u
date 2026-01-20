@@ -1488,8 +1488,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1768907659~exp=1768994059~acl=/*~hmac=a2168b6174ed6d4bf97f2992c91eef80e9dcb016d576b1a029fa2dee4fbe3f43&xxx=%7Ccookie=__hdnea__=st=1768907659~exp=1768994059~acl=/*~hmac=a2168b6174ed6d4bf97f2992c91eef80e9dcb016d576b1a029fa2dee4fbe3f43
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138944_5808_DBR_CCH_fc-web_1766733054162.jpg" group-title="Fancode-Cricket", Rajshahi Warriors vs Chattogram Royals (Bangladesh Premier League, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138947_english_hls_22f481031d90942_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Vietnam-U23_vs_ChinaPRU23_fc-web.jpg" group-title="Fancode-Football", Vietnam U23 vs China PR U23 (AFC U23 Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139280_english_hls_a7d404c45414999_1ta-di_h264/index.m3u8
 # --- external_z5 ---
@@ -1673,11 +1671,11 @@ https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1768966
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013442/1768477064284666_PWL_26_Punjab-Royals-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Punjab Royals vs Tiigers Of Mumbai Dangal - 20 Jan 2026 [ENG] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768966256~acl=/*~id=03631045206517139153789050263390~hmac=60daa8d5c09cb689086479bac5549d3fc670061fc352689e71313244efa5f8ab
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768968689~acl=/*~id=77279788873004097465546173696045~hmac=cb6aad43a6d47455a3881c2f60746bfc7d4626f652a9452400c8d129d83226a0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013442/1768477064284666_PWL_26_Punjab-Royals-vs-Tiigers-Of-Mumbai-Dangal_15jan_landscape_thumb.jpg" group-title="sonyliv-Wrestling", Punjab Royals vs Tiigers Of Mumbai Dangal - 20 Jan 2026 [HIN] - Pro Wrestling League 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768966256~acl=/*~id=03631045206517139153789050263390~hmac=60daa8d5c09cb689086479bac5549d3fc670061fc352689e71313244efa5f8ab
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768968689~acl=/*~id=77279788873004097465546173696045~hmac=cb6aad43a6d47455a3881c2f60746bfc7d4626f652a9452400c8d129d83226a0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013411/1768374097033129_UCL_26_MD7_Kairat-Almaty-vs-Club-Brugge_14jan_landscape_thumb.jpg" group-title="sonyliv-Football", Kairat Almaty vs Club Brugge - MD 7 - 20 Jan 2026 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768966256~acl=/*~id=03631045206517139153789050263390~hmac=60daa8d5c09cb689086479bac5549d3fc670061fc352689e71313244efa5f8ab
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768968689~acl=/*~id=77279788873004097465546173696045~hmac=cb6aad43a6d47455a3881c2f60746bfc7d4626f652a9452400c8d129d83226a0
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
