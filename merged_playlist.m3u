@@ -1490,8 +1490,8 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 # --- external_fancode ---
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" group-title="Fancode-Cricket", Guyana Women vs Barbados Women (CWI T20 Blaze 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139758_english_hls_add0a4c6f92142_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139825_5655_DAM_ANF_FC-Web.jpg" group-title="Fancode-Football", Damac vs Al-Nassr FC (Roshn Saudi League 2025-2026)
-https://in-mc-fdlive.fancode.com/mumbai/139825_english_hls_0bd975f30e9369_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139340_5489_STK_MIDD_FC-Web.jpg" group-title="Fancode-Football", Stoke City F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)
+https://in-mc-fdlive.fancode.com/mumbai/139340_english_hls_80a048a24124860_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769086257~acl=%2f*~id=e24e1fa4-7f4b-46a2-a172-c6d293559f1c~data=hdntl~hmac=175c04662e36161d9a55aedc066aac6a2b4e0db2f8be1d5f322c6e2519ca57e9
