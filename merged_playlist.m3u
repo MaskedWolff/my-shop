@@ -1686,6 +1686,8 @@ https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1769242
 https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1769242616~acl=/*~id=64418612604347006867363475208460~hmac=38e95a9ea1cc67fe6e2204457418069b3640bf79f6e6d462c35843955e238ddc
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013252/1768141248744360_bliga26_MD18_St_Pauli_vs_Hamburg_SV_11jan_landscape_thumb.jpg" group-title="sonyliv-Football", St. Pauli vs Hamburg SV - MD 19 - 24 Jan 2026 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769244439~acl=/*~id=45321002613235751987568424468553~hmac=0925a2ddf9669a213e032e6fd32bd1c4ff99d106a3339a894985ecd3a23b81f1
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
