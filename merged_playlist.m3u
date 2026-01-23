@@ -1488,8 +1488,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1769129474~exp=1769215874~acl=/*~hmac=953bbb0d85a06d0ee8280ded2241e99a280e98e687aaf17e5b1877b5ef1c00a9&xxx=%7Ccookie=__hdnea__=st=1769129474~exp=1769215874~acl=/*~hmac=953bbb0d85a06d0ee8280ded2241e99a280e98e687aaf17e5b1877b5ef1c00a9
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139390_5802_NJ_WEL_FC-Web.jpg" group-title="Fancode-Football", Newcastle Jets vs Wellington Phoenix (A League 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/139390_english_hls_7c09f6371540836_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769219179~acl=%2f*~id=4beb6070-8812-4841-a22f-e4f308e57534~data=hdntl~hmac=b238a537b8216919868c81ec03681ecc5fc847b4527732adb549d802ca707291
@@ -1671,17 +1669,17 @@ https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1769206
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg" group-title="sonyliv-Tennis", Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769205967~acl=/*~id=17269839021372606501433546543236~hmac=a9cbef86ad92cc48f2c6be951a1a877a2847fe874e397b6073835dc3fdce4f3d
+https://liveakmt-p.slivcdn.com/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769209053~acl=/*~id=49406442058731823287377376847961~hmac=2ae9d7a7d4019fb9c3a2d68f757e267a7a98281cdcc76d6d4cba5c796acf8dc6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg" group-title="sonyliv-Tennis", Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769205967~acl=/*~id=17269839021372606501433546543236~hmac=a9cbef86ad92cc48f2c6be951a1a877a2847fe874e397b6073835dc3fdce4f3d
+https://liveakmt-p.slivcdn.com/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769209053~acl=/*~id=49406442058731823287377376847961~hmac=2ae9d7a7d4019fb9c3a2d68f757e267a7a98281cdcc76d6d4cba5c796acf8dc6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg" group-title="sonyliv-Tennis", Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769205967~acl=/*~id=17269839021372606501433546543236~hmac=a9cbef86ad92cc48f2c6be951a1a877a2847fe874e397b6073835dc3fdce4f3d
+https://liveakmt-p.slivcdn.com/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769209053~acl=/*~id=49406442058731823287377376847961~hmac=2ae9d7a7d4019fb9c3a2d68f757e267a7a98281cdcc76d6d4cba5c796acf8dc6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013993/1769110084819443_AO2026_Landscape_Thumb_Tiafoe_V_de_Minaur_SP.jpg" group-title="sonyliv-Tennis", Tiafoe vs De Minaur - Round 3 - 23 Jan 2026	 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769205967~acl=/*~id=17269839021372606501433546543236~hmac=a9cbef86ad92cc48f2c6be951a1a877a2847fe874e397b6073835dc3fdce4f3d
+https://liveakmt-p.slivcdn.com/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769209053~acl=/*~id=49406442058731823287377376847961~hmac=2ae9d7a7d4019fb9c3a2d68f757e267a7a98281cdcc76d6d4cba5c796acf8dc6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013992/1769110085103967_AO2026_Landscape_Thumb_Zverev_v_Norrie_SP.jpg" group-title="sonyliv-Tennis", Alexander Zverev vs Cameron Norrie - Men's Singles - 23 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769205967~acl=/*~id=17269839021372606501433546543236~hmac=a9cbef86ad92cc48f2c6be951a1a877a2847fe874e397b6073835dc3fdce4f3d
+https://liveakmt-p.slivcdn.com/hls/live/2018458/DAI10ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769209053~acl=/*~id=49406442058731823287377376847961~hmac=2ae9d7a7d4019fb9c3a2d68f757e267a7a98281cdcc76d6d4cba5c796acf8dc6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013861/1768988631866461_DPworldtour_HeroDubaiDesertClassic_day2_21jan_landscape_thumb.jpg" group-title="sonyliv-Golf", Hero Dubai Desert Classic Day 2 - 23 Jan 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769205967~acl=/*~id=17269839021372606501433546543236~hmac=a9cbef86ad92cc48f2c6be951a1a877a2847fe874e397b6073835dc3fdce4f3d
+https://liveakmt-p.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769209053~acl=/*~id=49406442058731823287377376847961~hmac=2ae9d7a7d4019fb9c3a2d68f757e267a7a98281cdcc76d6d4cba5c796acf8dc6
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
