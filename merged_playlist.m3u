@@ -1492,8 +1492,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 https://in-mc-fdlive.fancode.com/mumbai/131032_english_hls_f720cb325438812_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/139344_CASACARDS_APP.png" group-title="Fancode-Football", Norwich City F.C. vs Coventry City Football Club (EFL Championship 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139344_english_hls_4632fea22586909_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/140008_CASACARDS_APP.png" group-title="Fancode-Football", AD Cueta vs Cultural Leonesa (LALIGA Hypermotion 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/140008_english_hls_0238eb7cfc35907_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?
