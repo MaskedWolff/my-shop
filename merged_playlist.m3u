@@ -1488,8 +1488,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1769465446~exp=1769551846~acl=/*~hmac=46fa23563304746511778f4b9e38790433cde031db9a5fa64ed6a1b61424170d&xxx=%7Ccookie=__hdnea__=st=1769465446~exp=1769551846~acl=/*~hmac=46fa23563304746511778f4b9e38790433cde031db9a5fa64ed6a1b61424170d
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131032_5427_GIR_GEF_fc-Web.png" group-title="Fancode-Football", Girona FC vs Getafe CF (LALIGA 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/131032_english_hls_f720cb325438812_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?
