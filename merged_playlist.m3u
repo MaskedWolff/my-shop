@@ -1488,7 +1488,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868&xxx=%7Ccookie=__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140074_5928_GT_RLS_FC-Web.jpg" group-title="Fancode-Cricket", Gurugram Thunders vs Rajasthan Lions (World Legends Pro T20 League, 2026)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png" group-title="Fancode-Cricket", England vs Sri Lanka (England tour of Sri Lanka, 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769547050~acl=/*~id=67551255025184234283288383274013~hmac=29fb044d9db921d9213773e8391e8e86b36deaa54532315132e59ea9f4fbdd50
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/140081_5928_GT_PPT_FC-Web.jpg" group-title="Fancode-Cricket", Pune Panthers vs Gurugram Thunders (World Legends Pro T20 League, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140074_english_hls_b67341f10193939_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Iraq vs Kyrgyz Republic (AFC Futsal Asian Cup, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139882_english_hls_e03280110543384_1ta-di_h264/index.m3u8
@@ -1631,63 +1633,63 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824
 # --- external_sony ---
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png", SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png", Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009259" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png", Sony Marathi
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009273" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png", Sony Pal
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png", Sony Aath
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png", Sony Yay
-https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png", Sony MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png", Sony MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009253" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png", Sony MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png", Sony WAH
-https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png", Sony PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png", Sony Sports Ten 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009280" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png", Sony Sports Ten 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009279" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png", Sony Sports Ten 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009283" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png", Sony Sports Ten 3
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000119187" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png", Sony Sports Ten 4
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009281" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png", Sony Sports Ten 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png", Sony Sports Ten 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009278" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png", Sony Sports Ten 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000119186" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1769544596~acl=/*~id=59054970604016386180451430457836~hmac=8a6c6ffef078fd3f877b3e7ab82b33431822cf12eb2e973e53cccfde24031427
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="sonyliv-Tennis", Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="sonyliv-Tennis", Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="sonyliv-Tennis", Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014248/1769447177176955_AO2026_Landscape_Thumb_Gauff_v_Svitolina_SP.jpg" group-title="sonyliv-Tennis", Coco Gauff vs Elina Svitolina - Quarter-final - 27 Jan 2026 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013962/1769077443147110_SLvsENG26_3odi_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd ODI - 27 Jan 2026 [ENG] - England Tour of Sri Lanka 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014166/1769329926969276_WLPT20L26_pune_vs_gurugram_25jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pune Panthers vs Gurugram Thunders - 27 Jan 2026 [ENG] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372844796933_AO26_QF_Margaret_Court_Arena_Landscape_thumb.jpg" group-title="sonyliv-Tennis", Margaret Court Arena - 27 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014197/1769372844796933_AO26_QF_Margaret_Court_Arena_Landscape_thumb.jpg" group-title="sonyliv-Tennis", Verbeek S / Siniakova K vs Guinard M / Mladenovic K - Mixed Doubles - 27 Jan 2026 [ENG] - Australian Open 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014198/1769374799588582_AO26_QF_stream2_landscape_thumb_SP.jpg" group-title="sonyliv-Tennis", Stream 2 - 27 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769546427~acl=/*~id=96794341049677336700542374052102~hmac=505bb85419bcf2d4d7822792723440166646f13c03ef10d9654ca2af7a1ee8bb
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769547036~acl=/*~id=70067372687189394265969844943930~hmac=94694bde8b8ace35ae30b89a7326f4c3b9a88fe17c86b7aed8544eca65eebda6
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
