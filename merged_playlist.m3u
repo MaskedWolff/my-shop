@@ -1488,14 +1488,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1769734698~exp=1769821098~acl=/*~hmac=55065a13963825228ed238aaf3f2af43c2b7606f88fc310405b196308d5416a1&xxx=%7Ccookie=__hdnea__=st=1769734698~exp=1769821098~acl=/*~hmac=55065a13963825228ed238aaf3f2af43c2b7606f88fc310405b196308d5416a1
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg" group-title="Fancode-Cricket", Auckland Aces vs Canterbury (Super Smash, 2025-26)
-https://in-mc-fdlive.fancode.com/mumbai/138761_english_hls_95eb8471dd79330_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1768324021772.png" group-title="Fancode-Cricket", USA Women vs Thailand Women (ICC Women's T20 World Cup Global Qualifier, 2026)
 https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg" group-title="Fancode-Football", Wellington Phoenix vs Melbourne City (A League 2025-26)
 https://in-mc-fdlive.fancode.com/mumbai/139396_english_hls_9b3723b4c441716_1ta-di_h264/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Saudi Arabia vs IR Iran (AFC Futsal Asian Cup, 2026)
-https://in-mc-fdlive.fancode.com/mumbai/139893_english_hls_fd95d45e3a10803_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png" group-title="Fancode-Futsal", Australia vs Uzbekistan (AFC Futsal Asian Cup, 2026)
+https://in-mc-fdlive.fancode.com/mumbai/139894_english_hls_3aab23c1d721010_1ta-di_h264/index.m3u8
 # --- external_z5 ---
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769824927~acl=%2f*~id=dd6e3304-f153-49af-970f-39887b8c5bba~data=hdntl~hmac=bc8828ed1ca67e9a0502a963be65fdca513a1a9075a8ceb33c1588efe58803e9
@@ -1677,17 +1675,15 @@ https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1769799
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png", Sony Sports Ten 4 HD
 # --- external_sonyliv ---
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [HIN] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [TAM] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014447/1769678080358889_AO2026_SF_mens_Alcaraz_vs_Zverev_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Carlos Alcaraz vs Alexander Zverev - Semi-final - 30 Jan 2026	 [TEL] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014490/1769698307449427_SS26_mens_Eliminator_Auckland_Aces_vs_Canterbury_Kings_29jan_landscape_thumb.jpg" group-title="sonyliv-Cricket", Auckland Aces vs Canterbury Kings - Eliminator - 30 Jan 2026 [ENG] - Super Smash 2025/26 Men's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
+https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014460/1769684801522533_AO26_SF_stream2_29jan_SP_landscape_thumb.jpg" group-title="sonyliv-Tennis", Stream 2 - 30 Jan 2026 [ENG] - Australian Open 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769800646~acl=/*~id=48751171371618180607792252907515~hmac=6b4f78d857f4250fedf545af8a805714515a995c620fbf97e5c429c3099a6cd7
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769803073~acl=/*~id=10908231047507355988202020123676~hmac=89aa5be01a13aabb8ff2d86fd14fa2e155217af07ac3f714a90e688e8be3e49c
 # --- your_playlist ---
 #EXTINF:-1 tvg-id="and-tv-sd" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="MIXED TV", &TV SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
