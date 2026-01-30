@@ -1488,8 +1488,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTINF:-1 tvg-id="2355" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/One_Paschima.png",One Paschima
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1769811105~exp=1769897505~acl=/*~hmac=c2d4e9e3ffa866041ba24cdddf3c3ecbb011bde4442464908511ecbfab9dd583&xxx=%7Ccookie=__hdnea__=st=1769811105~exp=1769897505~acl=/*~hmac=c2d4e9e3ffa866041ba24cdddf3c3ecbb011bde4442464908511ecbfab9dd583
 # --- external_fancode ---
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Main Feed - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
-https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Holes - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)
 https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png" group-title="Fancode-Golf", Featured Groups - Day 2 vs Torrey Pines Golf Course  (Farmers Insurance Open 2026)
